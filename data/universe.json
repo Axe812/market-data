@@ -1,0 +1,7130 @@
+{
+ "MMM": {
+  "name": "3M",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AOS": {
+  "name": "A. O. Smith",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ABT": {
+  "name": "Abbott Laboratories",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ABBV": {
+  "name": "AbbVie",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ACN": {
+  "name": "Accenture",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ADBE": {
+  "name": "Adobe Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMD": {
+  "name": "Advanced Micro Devices",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AES": {
+  "name": "AES Corporation",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AFL": {
+  "name": "Aflac",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "A": {
+  "name": "Agilent Technologies",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APD": {
+  "name": "Air Products",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ABNB": {
+  "name": "Airbnb",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AKAM": {
+  "name": "Akamai Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ALB": {
+  "name": "Albemarle Corporation",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ARE": {
+  "name": "Alexandria Real Estate Equities",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ALGN": {
+  "name": "Align Technology",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ALLE": {
+  "name": "Allegion",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LNT": {
+  "name": "Alliant Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ALL": {
+  "name": "Allstate",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GOOGL": {
+  "name": "Alphabet Inc. (Class A)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GOOG": {
+  "name": "Alphabet Inc. (Class C)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MO": {
+  "name": "Altria",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMZN": {
+  "name": "Amazon",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMCR": {
+  "name": "Amcor",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AEE": {
+  "name": "Ameren",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AEP": {
+  "name": "American Electric Power",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AXP": {
+  "name": "American Express",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AIG": {
+  "name": "American International Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMT": {
+  "name": "American Tower",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AWK": {
+  "name": "American Water Works",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMP": {
+  "name": "Ameriprise Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AME": {
+  "name": "Ametek",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMGN": {
+  "name": "Amgen",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APH": {
+  "name": "Amphenol",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ADI": {
+  "name": "Analog Devices",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AON": {
+  "name": "Aon plc",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APA": {
+  "name": "APA Corporation",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APO": {
+  "name": "Apollo Global Management",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AAPL": {
+  "name": "Apple Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AMAT": {
+  "name": "Applied Materials",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APP": {
+  "name": "AppLovin",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "APTV": {
+  "name": "Aptiv",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ACGL": {
+  "name": "Arch Capital Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ADM": {
+  "name": "Archer Daniels Midland",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ARES": {
+  "name": "Ares Management",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ANET": {
+  "name": "Arista Networks",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AJG": {
+  "name": "Arthur J. Gallagher & Co.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AIZ": {
+  "name": "Assurant",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "T": {
+  "name": "AT&T",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ATO": {
+  "name": "Atmos Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ADSK": {
+  "name": "Autodesk",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ADP": {
+  "name": "Automatic Data Processing",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AZO": {
+  "name": "AutoZone",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AVY": {
+  "name": "Avery Dennison",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AXON": {
+  "name": "Axon Enterprise",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BKR": {
+  "name": "Baker Hughes",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BALL": {
+  "name": "Ball Corporation",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BAC": {
+  "name": "Bank of America",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BAX": {
+  "name": "Baxter International",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BDX": {
+  "name": "Becton Dickinson",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BRK-B": {
+  "name": "Berkshire Hathaway",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BBY": {
+  "name": "Best Buy",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TECH": {
+  "name": "Bio-Techne",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BIIB": {
+  "name": "Biogen",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BLK": {
+  "name": "BlackRock",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BX": {
+  "name": "Blackstone Inc.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "XYZ": {
+  "name": "Block, Inc.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BE": {
+  "name": "Bloom Energy",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BNY": {
+  "name": "BNY Mellon",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BA": {
+  "name": "Boeing",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BKNG": {
+  "name": "Booking Holdings",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BSX": {
+  "name": "Boston Scientific",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BMY": {
+  "name": "Bristol Myers Squibb",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "AVGO": {
+  "name": "Broadcom",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BR": {
+  "name": "Broadridge Financial Solutions",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BRO": {
+  "name": "Brown & Brown",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BF-B": {
+  "name": "Brown–Forman",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BG": {
+  "name": "Bunge Global",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BXP": {
+  "name": "BXP, Inc.",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CHRW": {
+  "name": "C.H. Robinson",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CDNS": {
+  "name": "Cadence Design Systems",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CPT": {
+  "name": "Camden Property Trust",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COF": {
+  "name": "Capital One",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CAH": {
+  "name": "Cardinal Health",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CCL": {
+  "name": "Carnival Corporation",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CARR": {
+  "name": "Carrier Global",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CVNA": {
+  "name": "Carvana",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CASY": {
+  "name": "Casey's",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CAT": {
+  "name": "Caterpillar Inc.",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CBOE": {
+  "name": "Cboe Global Markets",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CBRE": {
+  "name": "CBRE Group",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CDW": {
+  "name": "CDW Corporation",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COR": {
+  "name": "Cencora",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CNC": {
+  "name": "Centene Corporation",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CNP": {
+  "name": "CenterPoint Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CF": {
+  "name": "CF Industries",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CRL": {
+  "name": "Charles River Laboratories",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SCHW": {
+  "name": "Charles Schwab Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CHTR": {
+  "name": "Charter Communications",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CVX": {
+  "name": "Chevron Corporation",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CMG": {
+  "name": "Chipotle Mexican Grill",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CB": {
+  "name": "Chubb Limited",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CHD": {
+  "name": "Church & Dwight",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CIEN": {
+  "name": "Ciena",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CI": {
+  "name": "Cigna",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CINF": {
+  "name": "Cincinnati Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CTAS": {
+  "name": "Cintas",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CSCO": {
+  "name": "Cisco",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "C": {
+  "name": "Citigroup",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CFG": {
+  "name": "Citizens Financial Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CLX": {
+  "name": "Clorox",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CME": {
+  "name": "CME Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CMS": {
+  "name": "CMS Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KO": {
+  "name": "Coca-Cola Company (The)",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CTSH": {
+  "name": "Cognizant",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COHR": {
+  "name": "Coherent Corp.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COIN": {
+  "name": "Coinbase",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CL": {
+  "name": "Colgate-Palmolive",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CMCSA": {
+  "name": "Comcast",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FIX": {
+  "name": "Comfort Systems USA",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COP": {
+  "name": "ConocoPhillips",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ED": {
+  "name": "Consolidated Edison",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "STZ": {
+  "name": "Constellation Brands",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CEG": {
+  "name": "Constellation Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COO": {
+  "name": "Cooper Companies (The)",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CPRT": {
+  "name": "Copart",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GLW": {
+  "name": "Corning Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CPAY": {
+  "name": "Corpay",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CSGP": {
+  "name": "CoStar Group",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "COST": {
+  "name": "Costco",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CRH": {
+  "name": "CRH plc",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CRWD": {
+  "name": "CrowdStrike",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CCI": {
+  "name": "Crown Castle",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CSX": {
+  "name": "CSX Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CMI": {
+  "name": "Cummins",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CVS": {
+  "name": "CVS Health",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DHR": {
+  "name": "Danaher Corporation",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DRI": {
+  "name": "Darden Restaurants",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DDOG": {
+  "name": "Datadog",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DVA": {
+  "name": "DaVita",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DECK": {
+  "name": "Deckers Brands",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DE": {
+  "name": "Deere & Company",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DELL": {
+  "name": "Dell Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DAL": {
+  "name": "Delta Air Lines",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DVN": {
+  "name": "Devon Energy",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DXCM": {
+  "name": "Dexcom",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FANG": {
+  "name": "Diamondback Energy",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DLR": {
+  "name": "Digital Realty",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DG": {
+  "name": "Dollar General",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DLTR": {
+  "name": "Dollar Tree",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "D": {
+  "name": "Dominion Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DPZ": {
+  "name": "Domino's",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DASH": {
+  "name": "DoorDash",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DOV": {
+  "name": "Dover Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DOW": {
+  "name": "Dow Inc.",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DHI": {
+  "name": "D. R. Horton",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DTE": {
+  "name": "DTE Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DUK": {
+  "name": "Duke Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DD": {
+  "name": "DuPont",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ETN": {
+  "name": "Eaton Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EBAY": {
+  "name": "eBay Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ECHO": {
+  "name": "EchoStar",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ECL": {
+  "name": "Ecolab",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EIX": {
+  "name": "Edison International",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EW": {
+  "name": "Edwards Lifesciences",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ELV": {
+  "name": "Elevance Health",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EME": {
+  "name": "Emcor",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EMR": {
+  "name": "Emerson Electric",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ETR": {
+  "name": "Entergy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EOG": {
+  "name": "EOG Resources",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EQT": {
+  "name": "EQT Corporation",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EFX": {
+  "name": "Equifax",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EQIX": {
+  "name": "Equinix",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ERIE": {
+  "name": "Erie Indemnity",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ESS": {
+  "name": "Essex Property Trust",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EL": {
+  "name": "Estée Lauder Companies (The)",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EG": {
+  "name": "Everest Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EVRG": {
+  "name": "Evergy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "P": {
+  "name": "Everpure",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ES": {
+  "name": "Eversource Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EXC": {
+  "name": "Exelon",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EXE": {
+  "name": "Expand Energy",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EXPE": {
+  "name": "Expedia Group",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EXPD": {
+  "name": "Expeditors International",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "EXR": {
+  "name": "Extra Space Storage",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "XOM": {
+  "name": "ExxonMobil",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FFIV": {
+  "name": "F5, Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FDS": {
+  "name": "FactSet",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FICO": {
+  "name": "Fair Isaac",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FAST": {
+  "name": "Fastenal",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FRT": {
+  "name": "Federal Realty Investment Trust",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FDX": {
+  "name": "FedEx",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FDXF": {
+  "name": "FedEx Freight",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FERG": {
+  "name": "Ferguson Enterprises",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FIS": {
+  "name": "Fidelity National Information Services",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FITB": {
+  "name": "Fifth Third Bancorp",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FSLR": {
+  "name": "First Solar",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FE": {
+  "name": "FirstEnergy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FISV": {
+  "name": "Fiserv",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FLEX": {
+  "name": "Flex Ltd.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "F": {
+  "name": "Ford Motor Company",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FTNT": {
+  "name": "Fortinet",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FTV": {
+  "name": "Fortive",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FOXA": {
+  "name": "Fox Corporation (Class A)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FOX": {
+  "name": "Fox Corporation (Class B)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "BEN": {
+  "name": "Franklin Resources",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "FCX": {
+  "name": "Freeport-McMoRan",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GRMN": {
+  "name": "Garmin",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IT": {
+  "name": "Gartner",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GE": {
+  "name": "GE Aerospace",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GEHC": {
+  "name": "GE HealthCare",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GEV": {
+  "name": "GE Vernova",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GEN": {
+  "name": "Gen Digital",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GNRC": {
+  "name": "Generac",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GD": {
+  "name": "General Dynamics",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GIS": {
+  "name": "General Mills",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GM": {
+  "name": "General Motors",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GPC": {
+  "name": "Genuine Parts Company",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GILD": {
+  "name": "Gilead Sciences",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GPN": {
+  "name": "Global Payments",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GL": {
+  "name": "Globe Life",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GDDY": {
+  "name": "GoDaddy",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GS": {
+  "name": "Goldman Sachs",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HAL": {
+  "name": "Halliburton",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HIG": {
+  "name": "Hartford (The)",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HAS": {
+  "name": "Hasbro",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HCA": {
+  "name": "HCA Healthcare",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DOC": {
+  "name": "Healthpeak Properties",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HSIC": {
+  "name": "Henry Schein",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HSY": {
+  "name": "Hershey Company (The)",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HPE": {
+  "name": "Hewlett Packard Enterprise",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HLT": {
+  "name": "Hilton Worldwide",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HD": {
+  "name": "Home Depot (The)",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HONA": {
+  "name": "Honeywell Aerospace",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HON": {
+  "name": "Honeywell Technologies",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HRL": {
+  "name": "Hormel Foods",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HST": {
+  "name": "Host Hotels & Resorts",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HWM": {
+  "name": "Howmet Aerospace",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HPQ": {
+  "name": "HP Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HUBB": {
+  "name": "Hubbell Incorporated",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HUM": {
+  "name": "Humana",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HBAN": {
+  "name": "Huntington Bancshares",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HII": {
+  "name": "Huntington Ingalls Industries",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IBM": {
+  "name": "IBM",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IEX": {
+  "name": "IDEX Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IDXX": {
+  "name": "Idexx Laboratories",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ITW": {
+  "name": "Illinois Tool Works",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ILMN": {
+  "name": "Illumina, Inc.",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "INCY": {
+  "name": "Incyte",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IR": {
+  "name": "Ingersoll Rand",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PODD": {
+  "name": "Insulet Corporation",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "INTC": {
+  "name": "Intel",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IBKR": {
+  "name": "Interactive Brokers",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ICE": {
+  "name": "Intercontinental Exchange",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IFF": {
+  "name": "International Flavors & Fragrances",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IP": {
+  "name": "International Paper",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "INTU": {
+  "name": "Intuit",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ISRG": {
+  "name": "Intuitive Surgical",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IVZ": {
+  "name": "Invesco",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "INVH": {
+  "name": "Invitation Homes",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IQV": {
+  "name": "IQVIA",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "IRM": {
+  "name": "Iron Mountain",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JBHT": {
+  "name": "J.B. Hunt",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JBL": {
+  "name": "Jabil",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JKHY": {
+  "name": "Jack Henry & Associates",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "J": {
+  "name": "Jacobs Solutions",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JNJ": {
+  "name": "Johnson & Johnson",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JCI": {
+  "name": "Johnson Controls",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "JPM": {
+  "name": "JPMorgan Chase",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KVUE": {
+  "name": "Kenvue",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KDP": {
+  "name": "Keurig Dr Pepper",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KEY": {
+  "name": "KeyCorp",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KEYS": {
+  "name": "Keysight Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KMB": {
+  "name": "Kimberly-Clark",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KIM": {
+  "name": "Kimco Realty",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KMI": {
+  "name": "Kinder Morgan",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KKR": {
+  "name": "KKR & Co.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KLAC": {
+  "name": "KLA Corporation",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KHC": {
+  "name": "Kraft Heinz",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "KR": {
+  "name": "Kroger",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LHX": {
+  "name": "L3Harris",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LH": {
+  "name": "Labcorp",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LRCX": {
+  "name": "Lam Research",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LVS": {
+  "name": "Las Vegas Sands",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LDOS": {
+  "name": "Leidos",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LEN": {
+  "name": "Lennar",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LII": {
+  "name": "Lennox International",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LLY": {
+  "name": "Lilly (Eli)",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LIN": {
+  "name": "Linde plc",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LYV": {
+  "name": "Live Nation Entertainment",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LMT": {
+  "name": "Lockheed Martin",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "L": {
+  "name": "Loews Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LOW": {
+  "name": "Lowe's",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LULU": {
+  "name": "Lululemon Athletica",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LITE": {
+  "name": "Lumentum",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LYB": {
+  "name": "LyondellBasell",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MTB": {
+  "name": "M&T Bank",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MPC": {
+  "name": "Marathon Petroleum",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MAR": {
+  "name": "Marriott International",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MRSH": {
+  "name": "Marsh McLennan",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MLM": {
+  "name": "Martin Marietta Materials",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MRVL": {
+  "name": "Marvell Technology",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MAS": {
+  "name": "Masco",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MA": {
+  "name": "Mastercard",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MKC": {
+  "name": "McCormick & Company",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MCD": {
+  "name": "McDonald's",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MCK": {
+  "name": "McKesson",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MDT": {
+  "name": "Medtronic",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MRK": {
+  "name": "Merck & Co.",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "META": {
+  "name": "Meta Platforms",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MET": {
+  "name": "MetLife",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MTD": {
+  "name": "Mettler Toledo",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MGM": {
+  "name": "MGM Resorts",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MCHP": {
+  "name": "Microchip Technology",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MU": {
+  "name": "Micron Technology",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MSFT": {
+  "name": "Microsoft",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MAA": {
+  "name": "Mid-America Apartment Communities",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MRNA": {
+  "name": "Moderna",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MDLZ": {
+  "name": "Mondelez International",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MPWR": {
+  "name": "Monolithic Power Systems",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MNST": {
+  "name": "Monster Beverage",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MCO": {
+  "name": "Moody's Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MS": {
+  "name": "Morgan Stanley",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MOS": {
+  "name": "Mosaic Company (The)",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MSI": {
+  "name": "Motorola Solutions",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "MSCI": {
+  "name": "MSCI",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NDAQ": {
+  "name": "Nasdaq, Inc.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NTAP": {
+  "name": "NetApp",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NFLX": {
+  "name": "Netflix",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NEM": {
+  "name": "Newmont",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NWSA": {
+  "name": "News Corp (Class A)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NWS": {
+  "name": "News Corp (Class B)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NEE": {
+  "name": "NextEra Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NKE": {
+  "name": "Nike, Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NI": {
+  "name": "NiSource",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NDSN": {
+  "name": "Nordson Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NSC": {
+  "name": "Norfolk Southern",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NTRS": {
+  "name": "Northern Trust",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NOC": {
+  "name": "Northrop Grumman",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NCLH": {
+  "name": "Norwegian Cruise Line Holdings",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NRG": {
+  "name": "NRG Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NUE": {
+  "name": "Nucor",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NVDA": {
+  "name": "Nvidia",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NVR": {
+  "name": "NVR, Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NXPI": {
+  "name": "NXP Semiconductors",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ORLY": {
+  "name": "O'Reilly Automotive",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "OXY": {
+  "name": "Occidental Petroleum",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ODFL": {
+  "name": "Old Dominion",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "OMC": {
+  "name": "Omnicom Group",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ON": {
+  "name": "ON Semiconductor",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "OKE": {
+  "name": "Oneok",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ORCL": {
+  "name": "Oracle Corporation",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "OTIS": {
+  "name": "Otis Worldwide",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PCAR": {
+  "name": "Paccar",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PKG": {
+  "name": "Packaging Corporation of America",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PLTR": {
+  "name": "Palantir Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PANW": {
+  "name": "Palo Alto Networks",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PH": {
+  "name": "Parker Hannifin",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PAYX": {
+  "name": "Paychex",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PYPL": {
+  "name": "PayPal",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PNR": {
+  "name": "Pentair",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PEP": {
+  "name": "PepsiCo",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PFE": {
+  "name": "Pfizer",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PCG": {
+  "name": "PG&E Corporation",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PM": {
+  "name": "Philip Morris International",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PSX": {
+  "name": "Phillips 66",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PNW": {
+  "name": "Pinnacle West Capital",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PNC": {
+  "name": "PNC Financial Services",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PPG": {
+  "name": "PPG Industries",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PPL": {
+  "name": "PPL Corporation",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PFG": {
+  "name": "Principal Financial Group",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PG": {
+  "name": "Procter & Gamble",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PGR": {
+  "name": "Progressive Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PLD": {
+  "name": "Prologis",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PRU": {
+  "name": "Prudential Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PEG": {
+  "name": "Public Service Enterprise Group",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PTC": {
+  "name": "PTC Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PSA": {
+  "name": "Public Storage",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PHM": {
+  "name": "PulteGroup",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "PWR": {
+  "name": "Quanta Services",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "QCOM": {
+  "name": "Qualcomm",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DGX": {
+  "name": "Quest Diagnostics",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "Q": {
+  "name": "Qnity Electronics",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RL": {
+  "name": "Ralph Lauren Corporation",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RJF": {
+  "name": "Raymond James Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RDDT": {
+  "name": "Reddit",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RTX": {
+  "name": "RTX Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "O": {
+  "name": "Realty Income",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "REG": {
+  "name": "Regency Centers",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "REGN": {
+  "name": "Regeneron Pharmaceuticals",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RF": {
+  "name": "Regions Financial Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RSG": {
+  "name": "Republic Services",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RMD": {
+  "name": "ResMed|",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RVTY": {
+  "name": "Revvity",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "HOOD": {
+  "name": "Robinhood Markets",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ROK": {
+  "name": "Rockwell Automation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ROL": {
+  "name": "Rollins, Inc.",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ROP": {
+  "name": "Roper Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ROST": {
+  "name": "Ross Stores",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "RCL": {
+  "name": "Royal Caribbean Group",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SPGI": {
+  "name": "S&P Global",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "CRM": {
+  "name": "Salesforce",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SNDK": {
+  "name": "Sandisk",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SBAC": {
+  "name": "SBA Communications",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SLB": {
+  "name": "Schlumberger",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "STX": {
+  "name": "Seagate Technology",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SRE": {
+  "name": "Sempra",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "NOW": {
+  "name": "ServiceNow",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SHW": {
+  "name": "Sherwin-Williams",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SPG": {
+  "name": "Simon Property Group",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SKYD": {
+  "name": "Skydance Corporation",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SWKS": {
+  "name": "Skyworks Solutions",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SJM": {
+  "name": "J.M. Smucker Company (The)",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SW": {
+  "name": "Smurfit Westrock",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SNA": {
+  "name": "Snap-on",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SOLV": {
+  "name": "Solventum",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SO": {
+  "name": "Southern Company",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "LUV": {
+  "name": "Southwest Airlines",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SWK": {
+  "name": "Stanley Black & Decker",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SBUX": {
+  "name": "Starbucks",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "STT": {
+  "name": "State Street Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "STLD": {
+  "name": "Steel Dynamics",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "STE": {
+  "name": "Steris",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SYK": {
+  "name": "Stryker Corporation",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SMCI": {
+  "name": "Supermicro",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SYF": {
+  "name": "Synchrony Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SNPS": {
+  "name": "Synopsys",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "SYY": {
+  "name": "Sysco",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TMUS": {
+  "name": "T-Mobile US",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TROW": {
+  "name": "T. Rowe Price",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TTWO": {
+  "name": "Take-Two Interactive",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TPR": {
+  "name": "Tapestry, Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TRGP": {
+  "name": "Targa Resources",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TGT": {
+  "name": "Target Corporation",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TEL": {
+  "name": "TE Connectivity",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TDY": {
+  "name": "Teledyne Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TER": {
+  "name": "Teradyne",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TSLA": {
+  "name": "Tesla, Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TXN": {
+  "name": "Texas Instruments",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TPL": {
+  "name": "Texas Pacific Land Corporation",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TXT": {
+  "name": "Textron",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TMO": {
+  "name": "Thermo Fisher Scientific",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TJX": {
+  "name": "TJX Companies",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TKO": {
+  "name": "TKO Group Holdings",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TSCO": {
+  "name": "Tractor Supply",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TT": {
+  "name": "Trane Technologies",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TDG": {
+  "name": "TransDigm Group",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TRV": {
+  "name": "Travelers Companies (The)",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TRMB": {
+  "name": "Trimble Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TFC": {
+  "name": "Truist Financial",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TWLO": {
+  "name": "Twilio",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TYL": {
+  "name": "Tyler Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "TSN": {
+  "name": "Tyson Foods",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "USB": {
+  "name": "U.S. Bancorp",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UBER": {
+  "name": "Uber",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UDR": {
+  "name": "UDR, Inc.",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ULTA": {
+  "name": "Ulta Beauty",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UNP": {
+  "name": "Union Pacific Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UAL": {
+  "name": "United Airlines Holdings",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UPS": {
+  "name": "United Parcel Service",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "URI": {
+  "name": "United Rentals",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UNH": {
+  "name": "UnitedHealth Group",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "UHS": {
+  "name": "Universal Health Services",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VLO": {
+  "name": "Valero Energy",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VEEV": {
+  "name": "Veeva Systems",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VTR": {
+  "name": "Ventas",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VLTO": {
+  "name": "Veralto",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VRSN": {
+  "name": "Verisign",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VRSK": {
+  "name": "Verisk Analytics",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VZ": {
+  "name": "Verizon",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VRTX": {
+  "name": "Vertex Pharmaceuticals",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VRT": {
+  "name": "Vertiv",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VTRS": {
+  "name": "Viatris",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VICI": {
+  "name": "Vici Properties",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "V": {
+  "name": "Visa Inc.",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VST": {
+  "name": "Vistra Corp.",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VMRK": {
+  "name": "Vivmark Residential",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VMC": {
+  "name": "Vulcan Materials Company",
+  "market": "US",
+  "sector": "Materials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "VYLR": {
+  "name": "Vylor",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WRB": {
+  "name": "W. R. Berkley Corporation",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "GWW": {
+  "name": "W. W. Grainger",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WAB": {
+  "name": "Wabtec",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WMT": {
+  "name": "Walmart",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "DIS": {
+  "name": "Walt Disney Company (The)",
+  "market": "US",
+  "sector": "Communication Services",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WM": {
+  "name": "Waste Management",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WAT": {
+  "name": "Waters Corporation",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WEC": {
+  "name": "WEC Energy Group",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WFC": {
+  "name": "Wells Fargo",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WELL": {
+  "name": "Welltower",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WST": {
+  "name": "West Pharmaceutical Services",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WDC": {
+  "name": "Western Digital",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WY": {
+  "name": "Weyerhaeuser",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WSM": {
+  "name": "Williams-Sonoma, Inc.",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WMB": {
+  "name": "Williams Companies",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WTW": {
+  "name": "Willis Towers Watson",
+  "market": "US",
+  "sector": "Financials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WDAY": {
+  "name": "Workday, Inc.",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "WYNN": {
+  "name": "Wynn Resorts",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "XEL": {
+  "name": "Xcel Energy",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "XYL": {
+  "name": "Xylem Inc.",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "YUM": {
+  "name": "Yum! Brands",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ZBRA": {
+  "name": "Zebra Technologies",
+  "market": "US",
+  "sector": "Information Technology",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ZBH": {
+  "name": "Zimmer Biomet",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "ZTS": {
+  "name": "Zoetis",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "SP500"
+  ]
+ },
+ "000001.SZ": {
+  "name": "平安银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000002.SZ": {
+  "name": "万科A",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000063.SZ": {
+  "name": "中兴通讯",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000100.SZ": {
+  "name": "TCL科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000157.SZ": {
+  "name": "中联重科",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000166.SZ": {
+  "name": "申万宏源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000301.SZ": {
+  "name": "东方盛虹",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000333.SZ": {
+  "name": "美的集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000338.SZ": {
+  "name": "潍柴动力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000408.SZ": {
+  "name": "藏格矿业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000425.SZ": {
+  "name": "徐工机械",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000538.SZ": {
+  "name": "云南白药",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000568.SZ": {
+  "name": "泸州老窖",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000596.SZ": {
+  "name": "古井贡酒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000617.SZ": {
+  "name": "中油资本",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000625.SZ": {
+  "name": "长安汽车",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000630.SZ": {
+  "name": "铜陵有色",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000651.SZ": {
+  "name": "格力电器",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000657.SZ": {
+  "name": "中钨高新",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000708.SZ": {
+  "name": "中信特钢",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000725.SZ": {
+  "name": "京东方A",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000768.SZ": {
+  "name": "中航西飞",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000776.SZ": {
+  "name": "广发证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000792.SZ": {
+  "name": "盐湖股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000807.SZ": {
+  "name": "云铝股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000858.SZ": {
+  "name": "五 粮 液",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000895.SZ": {
+  "name": "双汇发展",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000938.SZ": {
+  "name": "紫光股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000963.SZ": {
+  "name": "华东医药",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000975.SZ": {
+  "name": "山金国际",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000977.SZ": {
+  "name": "浪潮信息",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000988.SZ": {
+  "name": "华工科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "000999.SZ": {
+  "name": "华润三九",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "001280.SZ": {
+  "name": "中国铀业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "001391.SZ": {
+  "name": "国货航",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "001965.SZ": {
+  "name": "招商公路",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "001979.SZ": {
+  "name": "招商蛇口",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002001.SZ": {
+  "name": "新和成",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002027.SZ": {
+  "name": "分众传媒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002028.SZ": {
+  "name": "思源电气",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002049.SZ": {
+  "name": "紫光国微",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002050.SZ": {
+  "name": "三花智控",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002074.SZ": {
+  "name": "国轩高科",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002142.SZ": {
+  "name": "宁波银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002179.SZ": {
+  "name": "中航光电",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002202.SZ": {
+  "name": "金风科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002230.SZ": {
+  "name": "科大讯飞",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002236.SZ": {
+  "name": "大华股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002241.SZ": {
+  "name": "歌尔股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002294.SZ": {
+  "name": "信立泰",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002304.SZ": {
+  "name": "洋河股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002311.SZ": {
+  "name": "海大集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002352.SZ": {
+  "name": "顺丰控股",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002353.SZ": {
+  "name": "杰瑞股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002371.SZ": {
+  "name": "北方华创",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002384.SZ": {
+  "name": "东山精密",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002415.SZ": {
+  "name": "海康威视",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002422.SZ": {
+  "name": "科伦药业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002460.SZ": {
+  "name": "赣锋锂业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002463.SZ": {
+  "name": "沪电股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002466.SZ": {
+  "name": "天齐锂业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002475.SZ": {
+  "name": "立讯精密",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002493.SZ": {
+  "name": "荣盛石化",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002532.SZ": {
+  "name": "天山铝业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002558.SZ": {
+  "name": "巨人网络",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002594.SZ": {
+  "name": "比亚迪",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002600.SZ": {
+  "name": "领益智造",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002602.SZ": {
+  "name": "世纪华通",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002625.SZ": {
+  "name": "光启技术",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002648.SZ": {
+  "name": "卫星化学",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002709.SZ": {
+  "name": "天赐材料",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002714.SZ": {
+  "name": "牧原股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002736.SZ": {
+  "name": "国信证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002837.SZ": {
+  "name": "英维克",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002916.SZ": {
+  "name": "深南电路",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002920.SZ": {
+  "name": "德赛西威",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "002938.SZ": {
+  "name": "鹏鼎控股",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "003816.SZ": {
+  "name": "中国广核",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300014.SZ": {
+  "name": "亿纬锂能",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300015.SZ": {
+  "name": "爱尔眼科",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300033.SZ": {
+  "name": "同花顺",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300059.SZ": {
+  "name": "东方财富",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300122.SZ": {
+  "name": "智飞生物",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300124.SZ": {
+  "name": "汇川技术",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300251.SZ": {
+  "name": "光线传媒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300274.SZ": {
+  "name": "阳光电源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300308.SZ": {
+  "name": "中际旭创",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300316.SZ": {
+  "name": "晶盛机电",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300394.SZ": {
+  "name": "天孚通信",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300408.SZ": {
+  "name": "三环集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300413.SZ": {
+  "name": "芒果超媒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300418.SZ": {
+  "name": "昆仑万维",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300433.SZ": {
+  "name": "蓝思科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300442.SZ": {
+  "name": "润泽科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300450.SZ": {
+  "name": "先导智能",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300476.SZ": {
+  "name": "胜宏科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300498.SZ": {
+  "name": "温氏股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300502.SZ": {
+  "name": "新易盛",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300628.SZ": {
+  "name": "亿联网络",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300661.SZ": {
+  "name": "圣邦股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300750.SZ": {
+  "name": "宁德时代",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300760.SZ": {
+  "name": "迈瑞医疗",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300803.SZ": {
+  "name": "指南针",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300832.SZ": {
+  "name": "新产业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300866.SZ": {
+  "name": "安克创新",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300896.SZ": {
+  "name": "爱美客",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "300999.SZ": {
+  "name": "金龙鱼",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "301165.SZ": {
+  "name": "锐捷网络",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "301236.SZ": {
+  "name": "软通动力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "301269.SZ": {
+  "name": "华大九天",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "301308.SZ": {
+  "name": "江波龙",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "302132.SZ": {
+  "name": "中航成飞",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600000.SS": {
+  "name": "浦发银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600009.SS": {
+  "name": "上海机场",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600010.SS": {
+  "name": "包钢股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600011.SS": {
+  "name": "华能国际",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600015.SS": {
+  "name": "华夏银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600016.SS": {
+  "name": "民生银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600018.SS": {
+  "name": "上港集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600019.SS": {
+  "name": "宝钢股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600023.SS": {
+  "name": "浙能电力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600025.SS": {
+  "name": "华能水电",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600026.SS": {
+  "name": "中远海能",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600027.SS": {
+  "name": "华电国际",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600028.SS": {
+  "name": "中国石化",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600029.SS": {
+  "name": "南方航空",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600030.SS": {
+  "name": "中信证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600031.SS": {
+  "name": "三一重工",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600036.SS": {
+  "name": "招商银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600039.SS": {
+  "name": "四川路桥",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600048.SS": {
+  "name": "保利发展",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600050.SS": {
+  "name": "中国联通",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600061.SS": {
+  "name": "国投资本",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600066.SS": {
+  "name": "宇通客车",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600085.SS": {
+  "name": "同仁堂",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600089.SS": {
+  "name": "特变电工",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600104.SS": {
+  "name": "上汽集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600111.SS": {
+  "name": "北方稀土",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600115.SS": {
+  "name": "中国东航",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600118.SS": {
+  "name": "中国卫星",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600150.SS": {
+  "name": "中国船舶",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600160.SS": {
+  "name": "巨化股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600176.SS": {
+  "name": "中国巨石",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600183.SS": {
+  "name": "生益科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600188.SS": {
+  "name": "兖矿能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600196.SS": {
+  "name": "复星医药",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600219.SS": {
+  "name": "南山铝业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600221.SS": {
+  "name": "海航控股",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600233.SS": {
+  "name": "圆通速递",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600276.SS": {
+  "name": "恒瑞医药",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600309.SS": {
+  "name": "万华化学",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600346.SS": {
+  "name": "恒力石化",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600362.SS": {
+  "name": "江西铜业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600372.SS": {
+  "name": "中航机载",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600406.SS": {
+  "name": "国电南瑞",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600415.SS": {
+  "name": "小商品城",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600426.SS": {
+  "name": "华鲁恒升",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600436.SS": {
+  "name": "片仔癀",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600438.SS": {
+  "name": "通威股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600460.SS": {
+  "name": "士兰微",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600482.SS": {
+  "name": "中国动力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600489.SS": {
+  "name": "中金黄金",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600515.SS": {
+  "name": "海南机场",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600519.SS": {
+  "name": "贵州茅台",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600522.SS": {
+  "name": "中天科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600547.SS": {
+  "name": "山东黄金",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600549.SS": {
+  "name": "厦门钨业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600570.SS": {
+  "name": "恒生电子",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600584.SS": {
+  "name": "长电科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600585.SS": {
+  "name": "海螺水泥",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600588.SS": {
+  "name": "用友网络",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600600.SS": {
+  "name": "青岛啤酒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600660.SS": {
+  "name": "福耀玻璃",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600674.SS": {
+  "name": "川投能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600690.SS": {
+  "name": "海尔智家",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600741.SS": {
+  "name": "华域汽车",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600760.SS": {
+  "name": "中航沈飞",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600795.SS": {
+  "name": "国电电力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600803.SS": {
+  "name": "新奥股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600809.SS": {
+  "name": "山西汾酒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600845.SS": {
+  "name": "宝信软件",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600875.SS": {
+  "name": "东方电气",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600886.SS": {
+  "name": "国投电力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600887.SS": {
+  "name": "伊利股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600893.SS": {
+  "name": "航发动力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600900.SS": {
+  "name": "长江电力",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600905.SS": {
+  "name": "三峡能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600918.SS": {
+  "name": "中泰证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600919.SS": {
+  "name": "江苏银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600926.SS": {
+  "name": "杭州银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600930.SS": {
+  "name": "华电新能",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600938.SS": {
+  "name": "中国海油",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600941.SS": {
+  "name": "中国移动",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600958.SS": {
+  "name": "东方证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600989.SS": {
+  "name": "宝丰能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "600999.SS": {
+  "name": "招商证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601006.SS": {
+  "name": "大秦铁路",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601009.SS": {
+  "name": "南京银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601012.SS": {
+  "name": "隆基绿能",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601018.SS": {
+  "name": "宁波港",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601021.SS": {
+  "name": "春秋航空",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601058.SS": {
+  "name": "赛轮轮胎",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601066.SS": {
+  "name": "中信建投",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601077.SS": {
+  "name": "渝农商行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601088.SS": {
+  "name": "中国神华",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601100.SS": {
+  "name": "恒立液压",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601111.SS": {
+  "name": "中国国航",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601117.SS": {
+  "name": "中国化学",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601127.SS": {
+  "name": "赛力斯",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601136.SS": {
+  "name": "首创证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601138.SS": {
+  "name": "工业富联",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601166.SS": {
+  "name": "兴业银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601169.SS": {
+  "name": "北京银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601186.SS": {
+  "name": "中国铁建",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601211.SS": {
+  "name": "国泰海通",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601225.SS": {
+  "name": "陕西煤业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601229.SS": {
+  "name": "上海银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601238.SS": {
+  "name": "广汽集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601288.SS": {
+  "name": "农业银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601318.SS": {
+  "name": "中国平安",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601319.SS": {
+  "name": "中国人保",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601328.SS": {
+  "name": "交通银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601336.SS": {
+  "name": "新华保险",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601360.SS": {
+  "name": "三六零",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601377.SS": {
+  "name": "兴业证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601390.SS": {
+  "name": "中国中铁",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601398.SS": {
+  "name": "工商银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601456.SS": {
+  "name": "国联民生",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601600.SS": {
+  "name": "中国铝业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601601.SS": {
+  "name": "中国太保",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601607.SS": {
+  "name": "上海医药",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601618.SS": {
+  "name": "中国中冶",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601628.SS": {
+  "name": "中国人寿",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601633.SS": {
+  "name": "长城汽车",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601658.SS": {
+  "name": "邮储银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601668.SS": {
+  "name": "中国建筑",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601669.SS": {
+  "name": "中国电建",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601688.SS": {
+  "name": "华泰证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601689.SS": {
+  "name": "拓普集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601698.SS": {
+  "name": "中国卫通",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601727.SS": {
+  "name": "上海电气",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601728.SS": {
+  "name": "中国电信",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601766.SS": {
+  "name": "中国中车",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601788.SS": {
+  "name": "光大证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601800.SS": {
+  "name": "中国交建",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601816.SS": {
+  "name": "京沪高铁",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601818.SS": {
+  "name": "光大银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601825.SS": {
+  "name": "沪农商行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601838.SS": {
+  "name": "成都银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601857.SS": {
+  "name": "中国石油",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601868.SS": {
+  "name": "中国能建",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601872.SS": {
+  "name": "招商轮船",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601877.SS": {
+  "name": "正泰电器",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601878.SS": {
+  "name": "浙商证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601881.SS": {
+  "name": "中国银河",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601888.SS": {
+  "name": "中国中免",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601898.SS": {
+  "name": "中煤能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601899.SS": {
+  "name": "紫金矿业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601901.SS": {
+  "name": "方正证券",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601916.SS": {
+  "name": "浙商银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601919.SS": {
+  "name": "中远海控",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601939.SS": {
+  "name": "建设银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601985.SS": {
+  "name": "中国核电",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601988.SS": {
+  "name": "中国银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601995.SS": {
+  "name": "中金公司",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "601998.SS": {
+  "name": "中信银行",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603019.SS": {
+  "name": "中科曙光",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603259.SS": {
+  "name": "药明康德",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603260.SS": {
+  "name": "合盛硅业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603288.SS": {
+  "name": "海天味业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603296.SS": {
+  "name": "华勤技术",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603369.SS": {
+  "name": "今世缘",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603392.SS": {
+  "name": "万泰生物",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603501.SS": {
+  "name": "豪威集团",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603799.SS": {
+  "name": "华友钴业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603893.SS": {
+  "name": "瑞芯微",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603986.SS": {
+  "name": "兆易创新",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "603993.SS": {
+  "name": "洛阳钼业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "605117.SS": {
+  "name": "德业股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "605499.SS": {
+  "name": "东鹏饮料",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688008.SS": {
+  "name": "澜起科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688009.SS": {
+  "name": "中国通号",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688012.SS": {
+  "name": "中微公司",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688036.SS": {
+  "name": "传音控股",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688041.SS": {
+  "name": "海光信息",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688047.SS": {
+  "name": "龙芯中科",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688072.SS": {
+  "name": "拓荆科技",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688082.SS": {
+  "name": "盛美上海",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688111.SS": {
+  "name": "金山办公",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688126.SS": {
+  "name": "沪硅产业",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688183.SS": {
+  "name": "生益电子",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688223.SS": {
+  "name": "晶科能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688256.SS": {
+  "name": "寒武纪",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688271.SS": {
+  "name": "联影医疗",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688303.SS": {
+  "name": "大全能源",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688396.SS": {
+  "name": "华润微",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688472.SS": {
+  "name": "阿特斯",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688506.SS": {
+  "name": "百利天恒",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688521.SS": {
+  "name": "芯原股份",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "688981.SS": {
+  "name": "中芯国际",
+  "market": "CN",
+  "sector": "",
+  "tags": [
+   "CSI300"
+  ]
+ },
+ "0700.HK": {
+  "name": "腾讯控股",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9988.HK": {
+  "name": "阿里巴巴",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3690.HK": {
+  "name": "美团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9618.HK": {
+  "name": "京东集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9999.HK": {
+  "name": "网易",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1024.HK": {
+  "name": "快手",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9888.HK": {
+  "name": "百度集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9961.HK": {
+  "name": "携程集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0780.HK": {
+  "name": "同程旅行",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1810.HK": {
+  "name": "小米集团",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2382.HK": {
+  "name": "舜宇光学科技",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0981.HK": {
+  "name": "中芯国际",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0992.HK": {
+  "name": "联想集团",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0285.HK": {
+  "name": "比亚迪电子",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9992.HK": {
+  "name": "泡泡玛特",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6181.HK": {
+  "name": "老铺黄金",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2020.HK": {
+  "name": "安踏体育",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2331.HK": {
+  "name": "李宁",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2313.HK": {
+  "name": "申洲国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0291.HK": {
+  "name": "华润啤酒",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0168.HK": {
+  "name": "青岛啤酒股份",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1876.HK": {
+  "name": "百威亚太",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2319.HK": {
+  "name": "蒙牛乳业",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0322.HK": {
+  "name": "康师傅控股",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0151.HK": {
+  "name": "中国旺旺",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9633.HK": {
+  "name": "农夫山泉",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0288.HK": {
+  "name": "万洲国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6862.HK": {
+  "name": "海底捞",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1929.HK": {
+  "name": "周大福",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1044.HK": {
+  "name": "恒安国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6690.HK": {
+  "name": "海尔智家",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2097.HK": {
+  "name": "蜜雪集团",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9901.HK": {
+  "name": "新东方",
+  "market": "HK",
+  "sector": "教育",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1211.HK": {
+  "name": "比亚迪股份",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2015.HK": {
+  "name": "理想汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9868.HK": {
+  "name": "小鹏汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9866.HK": {
+  "name": "蔚来",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0175.HK": {
+  "name": "吉利汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2333.HK": {
+  "name": "长城汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0669.HK": {
+  "name": "创科实业",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0868.HK": {
+  "name": "信义玻璃",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0066.HK": {
+  "name": "港铁公司",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0005.HK": {
+  "name": "汇丰控股",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0388.HK": {
+  "name": "香港交易所",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1299.HK": {
+  "name": "友邦保险",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2318.HK": {
+  "name": "中国平安",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2628.HK": {
+  "name": "中国人寿",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0939.HK": {
+  "name": "建设银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1398.HK": {
+  "name": "工商银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3988.HK": {
+  "name": "中国银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3968.HK": {
+  "name": "招商银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0941.HK": {
+  "name": "中国移动",
+  "market": "HK",
+  "sector": "电信",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0883.HK": {
+  "name": "中国海洋石油",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0857.HK": {
+  "name": "中国石油股份",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0386.HK": {
+  "name": "中国石油化工股份",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1088.HK": {
+  "name": "中国神华",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2688.HK": {
+  "name": "新奥能源",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0002.HK": {
+  "name": "中电控股",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0003.HK": {
+  "name": "香港中华煤气",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0006.HK": {
+  "name": "电能实业",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0001.HK": {
+  "name": "长和",
+  "market": "HK",
+  "sector": "综合",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1113.HK": {
+  "name": "长实集团",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0016.HK": {
+  "name": "新鸿基地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0012.HK": {
+  "name": "恒基地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0101.HK": {
+  "name": "恒隆地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0823.HK": {
+  "name": "领展房产基金",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1109.HK": {
+  "name": "华润置地",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0688.HK": {
+  "name": "中国海外发展",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0960.HK": {
+  "name": "龙湖集团",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0027.HK": {
+  "name": "银河娱乐",
+  "market": "HK",
+  "sector": "博彩",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1928.HK": {
+  "name": "金沙中国有限公司",
+  "market": "HK",
+  "sector": "博彩",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2269.HK": {
+  "name": "药明生物",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2359.HK": {
+  "name": "药明康德",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1177.HK": {
+  "name": "中国生物制药",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1093.HK": {
+  "name": "石药集团",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1801.HK": {
+  "name": "信达生物",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6618.HK": {
+  "name": "京东健康",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0241.HK": {
+  "name": "阿里健康",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1378.HK": {
+  "name": "中国宏桥",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2899.HK": {
+  "name": "紫金矿业",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0914.HK": {
+  "name": "海螺水泥",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "BTC-USD": {
+  "name": "BTC-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "ETH-USD": {
+  "name": "ETH-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "SOL-USD": {
+  "name": "SOL-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "XRP-USD": {
+  "name": "XRP-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "BNB-USD": {
+  "name": "BNB-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "DOGE-USD": {
+  "name": "DOGE-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "ADA-USD": {
+  "name": "ADA-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ }
+}
