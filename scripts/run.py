@@ -118,7 +118,12 @@ def load_universe() -> dict[str, dict]:
         log("标普500 名单获取失败：", e)
 
     try:
-        tables = pd.read_html(CFG["sources"]["ndx_wiki"])
+        import io
+        import urllib.request
+        req = urllib.request.Request(CFG["sources"]["ndx_wiki"],
+                                     headers={"User-Agent": "Mozilla/5.0 (market-data screener)"})
+        html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
+        tables = pd.read_html(io.StringIO(html))
         ndx = next(t for t in tables if "Ticker" in t.columns or "Symbol" in t.columns)
         col = "Ticker" if "Ticker" in ndx.columns else "Symbol"
         name_col = "Company" if "Company" in ndx.columns else col
