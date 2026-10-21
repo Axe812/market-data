@@ -4,7 +4,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AOS": {
@@ -20,7 +21,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ABBV": {
@@ -28,7 +30,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ACN": {
@@ -36,7 +39,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ADBE": {
@@ -44,7 +48,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AMD": {
@@ -52,7 +57,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AES": {
@@ -92,7 +98,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AKAM": {
@@ -156,7 +163,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GOOG": {
@@ -164,7 +172,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MO": {
@@ -172,7 +181,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AMZN": {
@@ -180,7 +190,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AMCR": {
@@ -204,7 +215,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AXP": {
@@ -212,7 +224,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AIG": {
@@ -228,7 +241,8 @@
   "market": "US",
   "sector": "Real Estate",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AWK": {
@@ -260,7 +274,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "APH": {
@@ -268,7 +283,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ADI": {
@@ -276,7 +292,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AON": {
@@ -308,7 +325,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AMAT": {
@@ -316,7 +334,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "APP": {
@@ -324,7 +343,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "APTV": {
@@ -340,7 +360,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ADM": {
@@ -364,7 +385,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AJG": {
@@ -388,7 +410,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ATO": {
@@ -404,7 +427,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ADP": {
@@ -412,7 +436,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AZO": {
@@ -436,7 +461,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BKR": {
@@ -444,7 +470,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BALL": {
@@ -460,7 +487,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BAX": {
@@ -508,7 +536,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BLK": {
@@ -516,7 +545,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BX": {
@@ -524,7 +554,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "XYZ": {
@@ -548,7 +579,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BA": {
@@ -556,7 +588,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BKNG": {
@@ -564,7 +597,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BSX": {
@@ -580,7 +614,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "AVGO": {
@@ -588,7 +623,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "BR": {
@@ -644,7 +680,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CPT": {
@@ -660,7 +697,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CAH": {
@@ -708,7 +746,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CBOE": {
@@ -780,7 +819,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CHTR": {
@@ -796,7 +836,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CMG": {
@@ -812,7 +853,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CHD": {
@@ -852,7 +894,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CSCO": {
@@ -860,7 +903,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "C": {
@@ -868,7 +912,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CFG": {
@@ -892,7 +937,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CMS": {
@@ -908,7 +954,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CTSH": {
@@ -916,7 +963,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "COHR": {
@@ -932,7 +980,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CL": {
@@ -948,7 +997,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FIX": {
@@ -964,7 +1014,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ED": {
@@ -988,7 +1039,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "COO": {
@@ -1012,7 +1064,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CPAY": {
@@ -1036,7 +1089,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CRH": {
@@ -1052,7 +1106,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CCI": {
@@ -1068,7 +1123,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CMI": {
@@ -1084,7 +1140,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DHR": {
@@ -1092,7 +1149,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DRI": {
@@ -1108,7 +1166,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DVA": {
@@ -1132,7 +1191,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DELL": {
@@ -1140,7 +1200,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DAL": {
@@ -1164,7 +1225,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FANG": {
@@ -1172,7 +1234,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DLR": {
@@ -1220,7 +1283,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DOV": {
@@ -1260,7 +1324,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DD": {
@@ -1276,7 +1341,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EBAY": {
@@ -1284,7 +1350,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ECHO": {
@@ -1300,7 +1367,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EIX": {
@@ -1324,7 +1392,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EME": {
@@ -1340,7 +1409,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ETR": {
@@ -1356,7 +1426,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EQT": {
@@ -1380,7 +1451,8 @@
   "market": "US",
   "sector": "Real Estate",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ERIE": {
@@ -1444,7 +1516,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EXE": {
@@ -1460,7 +1533,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EXPD": {
@@ -1484,7 +1558,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FFIV": {
@@ -1516,7 +1591,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FRT": {
@@ -1596,7 +1672,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "F": {
@@ -1612,7 +1689,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FTV": {
@@ -1652,7 +1730,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GRMN": {
@@ -1676,7 +1755,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GEHC": {
@@ -1684,7 +1764,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GEV": {
@@ -1692,7 +1773,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GEN": {
@@ -1716,7 +1798,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GIS": {
@@ -1748,7 +1831,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GPN": {
@@ -1780,7 +1864,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HAL": {
@@ -1812,7 +1897,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DOC": {
@@ -1860,7 +1946,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HONA": {
@@ -1868,7 +1955,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HON": {
@@ -1876,7 +1964,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HRL": {
@@ -1900,7 +1989,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HPQ": {
@@ -1932,7 +2022,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HII": {
@@ -1948,7 +2039,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "IEX": {
@@ -1964,7 +2056,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ITW": {
@@ -1980,7 +2073,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "INCY": {
@@ -2012,7 +2106,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "IBKR": {
@@ -2020,7 +2115,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ICE": {
@@ -2028,7 +2124,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "IFF": {
@@ -2052,7 +2149,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ISRG": {
@@ -2060,7 +2158,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "IVZ": {
@@ -2132,7 +2231,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "JCI": {
@@ -2140,7 +2240,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "JPM": {
@@ -2148,7 +2249,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "KVUE": {
@@ -2164,7 +2266,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "KEY": {
@@ -2188,7 +2291,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "KIM": {
@@ -2220,7 +2324,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "KHC": {
@@ -2260,7 +2365,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LVS": {
@@ -2300,7 +2406,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LIN": {
@@ -2308,7 +2415,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LYV": {
@@ -2324,7 +2432,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "L": {
@@ -2340,7 +2449,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LULU": {
@@ -2356,7 +2466,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LYB": {
@@ -2380,7 +2491,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MAR": {
@@ -2388,7 +2500,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MRSH": {
@@ -2396,7 +2509,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MLM": {
@@ -2412,7 +2526,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MAS": {
@@ -2428,7 +2543,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MKC": {
@@ -2444,7 +2560,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MCK": {
@@ -2452,7 +2569,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MDT": {
@@ -2460,7 +2578,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MRK": {
@@ -2468,7 +2587,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "META": {
@@ -2476,7 +2596,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MET": {
@@ -2508,7 +2629,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MU": {
@@ -2516,7 +2638,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MSFT": {
@@ -2524,7 +2647,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MAA": {
@@ -2540,7 +2664,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MDLZ": {
@@ -2548,7 +2673,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MPWR": {
@@ -2556,7 +2682,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MNST": {
@@ -2564,7 +2691,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MCO": {
@@ -2572,7 +2700,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MS": {
@@ -2580,7 +2709,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MOS": {
@@ -2612,7 +2742,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NTAP": {
@@ -2620,7 +2751,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NFLX": {
@@ -2628,7 +2760,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NEM": {
@@ -2636,7 +2769,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NWSA": {
@@ -2660,7 +2794,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NKE": {
@@ -2700,7 +2835,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NOC": {
@@ -2740,7 +2876,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "NVR": {
@@ -2756,7 +2893,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ORLY": {
@@ -2764,7 +2902,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "OXY": {
@@ -2780,7 +2919,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "OMC": {
@@ -2812,7 +2952,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "OTIS": {
@@ -2828,7 +2969,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PKG": {
@@ -2844,7 +2986,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PANW": {
@@ -2852,7 +2995,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PH": {
@@ -2860,7 +3004,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PAYX": {
@@ -2868,7 +3013,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PYPL": {
@@ -2876,7 +3022,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PNR": {
@@ -2892,7 +3039,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PFE": {
@@ -2900,7 +3048,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PCG": {
@@ -2916,7 +3065,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PSX": {
@@ -2924,7 +3074,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PNW": {
@@ -2940,7 +3091,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PPG": {
@@ -2972,7 +3124,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PGR": {
@@ -2980,7 +3133,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PLD": {
@@ -2988,7 +3142,8 @@
   "market": "US",
   "sector": "Real Estate",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "PRU": {
@@ -3036,7 +3191,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "QCOM": {
@@ -3044,7 +3200,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DGX": {
@@ -3092,7 +3249,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "O": {
@@ -3116,7 +3274,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "RF": {
@@ -3156,7 +3315,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ROK": {
@@ -3180,7 +3340,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ROST": {
@@ -3188,7 +3349,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "RCL": {
@@ -3204,7 +3366,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CRM": {
@@ -3212,7 +3375,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SNDK": {
@@ -3220,7 +3384,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SBAC": {
@@ -3244,7 +3409,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SRE": {
@@ -3260,7 +3426,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SHW": {
@@ -3268,7 +3435,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SPG": {
@@ -3332,7 +3500,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "LUV": {
@@ -3356,7 +3525,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "STT": {
@@ -3372,7 +3542,8 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "STE": {
@@ -3388,7 +3559,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SMCI": {
@@ -3412,7 +3584,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "SYY": {
@@ -3428,7 +3601,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TROW": {
@@ -3444,7 +3618,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TPR": {
@@ -3492,7 +3667,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TSLA": {
@@ -3500,7 +3676,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TXN": {
@@ -3508,7 +3685,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TPL": {
@@ -3532,7 +3710,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TJX": {
@@ -3540,7 +3719,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TKO": {
@@ -3564,7 +3744,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TDG": {
@@ -3580,7 +3761,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TRMB": {
@@ -3628,7 +3810,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "UBER": {
@@ -3636,7 +3819,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "UDR": {
@@ -3660,7 +3844,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "UAL": {
@@ -3668,7 +3853,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "UPS": {
@@ -3676,7 +3862,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "URI": {
@@ -3692,7 +3879,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "UHS": {
@@ -3708,7 +3896,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "VEEV": {
@@ -3756,7 +3945,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "VRTX": {
@@ -3764,7 +3954,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "VRT": {
@@ -3772,7 +3963,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "VTRS": {
@@ -3796,7 +3988,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "VST": {
@@ -3860,7 +4053,8 @@
   "market": "US",
   "sector": "Consumer Staples",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "DIS": {
@@ -3868,7 +4062,8 @@
   "market": "US",
   "sector": "Communication Services",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WM": {
@@ -3876,7 +4071,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WAT": {
@@ -3900,7 +4096,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WELL": {
@@ -3908,7 +4105,8 @@
   "market": "US",
   "sector": "Real Estate",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WST": {
@@ -3924,7 +4122,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WY": {
@@ -3948,7 +4147,8 @@
   "market": "US",
   "sector": "Energy",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WTW": {
@@ -3964,7 +4164,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WYNN": {
@@ -3980,7 +4181,8 @@
   "market": "US",
   "sector": "Utilities",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "XYL": {
@@ -4021,6 +4223,790 @@
   "sector": "Health Care",
   "tags": [
    "SP500"
+  ]
+ },
+ "SPCX": {
+  "name": "Space Exploration Technologies Corp. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SKHY": {
+  "name": "SK hynix Inc. American Depositary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ASML": {
+  "name": "ASML Holding N.V. New York Registry Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "GOOGM": {
+  "name": "Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "GOOGN": {
+  "name": "Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ARM": {
+  "name": "Arm Holdings plc American Depositary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SHOP": {
+  "name": "Shopify Inc. Class A Subordinate Voting Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "PDD": {
+  "name": "PDD Holdings Inc. American Depositary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SNY": {
+  "name": "Sanofi ADS",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MELI": {
+  "name": "MercadoLibre Inc. Common Stock",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NTES": {
+  "name": "NetEase Inc. American Depositary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BRKRP": {
+  "name": "Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NTRA": {
+  "name": "Natera Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MSTR": {
+  "name": "Strategy Inc Common Stock Class A",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TEAM": {
+  "name": "Atlassian Corporation Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ARGX": {
+  "name": "argenx SE American Depositary Shares",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CCEP": {
+  "name": "Coca-Cola Europacific Partners plc Ordinary Shares",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HBANL": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ALAB": {
+  "name": "Astera Labs Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TRI": {
+  "name": "Thomson Reuters Corporation Common Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MDLN": {
+  "name": "Medline Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "STRF": {
+  "name": "Strategy Inc 10.00% Series A Perpetual Strife Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ONC": {
+  "name": "BeOne Medicines Ltd. American Depositary Shares",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "STRC": {
+  "name": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BTSGU": {
+  "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HBANM": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HBANZ": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "VOD": {
+  "name": "Vodafone Group Plc American Depositary Shares",
+  "market": "US",
+  "sector": "Telecommunications",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SMCIP": {
+  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "JD": {
+  "name": "JD.com Inc. American Depositary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "FER": {
+  "name": "Ferrovial N.V. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ESLT": {
+  "name": "Elbit Systems Ltd. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ERIC": {
+  "name": "Ericsson American Depositary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MCHPP": {
+  "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RPRX": {
+  "name": "Royalty Pharma plc Class A Ordinary Shares ",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ZS": {
+  "name": "Zscaler Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CRWV": {
+  "name": "CoreWeave Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "OKTA": {
+  "name": "Okta Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CRDO": {
+  "name": "Credo Technology Group Holding Ltd Ordinary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RKLB": {
+  "name": "Rocket Lab Corporation Common Stock",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BSP": {
+  "name": "Bending Spoons S.p.A. Ordinary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ALNY": {
+  "name": "Alnylam Pharmaceuticals Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HBANP": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "STRK": {
+  "name": "Strategy Inc 8.00% Series A Perpetual Strike Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TSM": {
+  "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HSBC": {
+  "name": "HSBC Holdings plc. Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SHEL": {
+  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NVS": {
+  "name": "Novartis AG Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SAP": {
+  "name": "SAP  SE ADS",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RY": {
+  "name": "Royal Bank Of Canada Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BABA": {
+  "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MUFG": {
+  "name": "Mitsubishi UFJ Financial Group Inc. Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "AZN": {
+  "name": "AstraZeneca PLC Ordinary Shares",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TM": {
+  "name": "Toyota Motor Corporation Common Stock",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CCZ": {
+  "name": "Comcast Holdings ZONES",
+  "market": "US",
+  "sector": "Telecommunications",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BHP": {
+  "name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TTE": {
+  "name": "TotalEnergies SE Ordinary Shares",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TD": {
+  "name": "Toronto Dominion Bank (The) Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SAN": {
+  "name": "Banco Santander S.A. Sponsored ADR (Spain)",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NVO": {
+  "name": "Novo Nordisk A/S Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SCCO": {
+  "name": "Southern Copper Corporation Common Stock",
+  "market": "US",
+  "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "PBR": {
+  "name": "Petroleo Brasileiro S.A. Petrobras ADS",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BUD": {
+  "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SMFG": {
+  "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SONY": {
+  "name": "Sony Group Corporation American Depositary Shares ",
+  "market": "US",
+  "sector": "Consumer Staples",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "UBS": {
+  "name": "UBS Group AG Registered Ordinary Shares",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BBVA": {
+  "name": "Banco Bilbao Vizcaya Argentaria S.A. Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "UL": {
+  "name": "Unilever PLC American Depositary Shares (each representing One Ordinary Share)",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BP": {
+  "name": "BP p.l.c. Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TBB": {
+  "name": "AT&T Inc. 5.350% Global Notes due 2066",
+  "market": "US",
+  "sector": "Telecommunications",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BTI": {
+  "name": "British American Tobacco  Industries p.l.c. Common Stock ADR",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MFG": {
+  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HDB": {
+  "name": "HDFC Bank Limited Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BMO": {
+  "name": "Bank Of Montreal Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "EQNR": {
+  "name": "Equinor ASA",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RIO": {
+  "name": "Rio Tinto Plc Common Stock",
+  "market": "US",
+  "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CNQ": {
+  "name": "Canadian Natural Resources Limited Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BNS": {
+  "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SNOW": {
+  "name": "Snowflake Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SPOT": {
+  "name": "Spotify Technology S.A. Ordinary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NET": {
+  "name": "Cloudflare Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "IBN": {
+  "name": "ICICI Bank Limited Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ITUB": {
+  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ENB": {
+  "name": "Enbridge Inc Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CM": {
+  "name": "Canadian Imperial Bank of Commerce Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "GSK": {
+  "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ING": {
+  "name": "ING Group N.V. Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "AEM": {
+  "name": "Agnico Eagle Mines Limited Common Stock",
+  "market": "US",
+  "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "E": {
+  "name": "ENI S.p.A. Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RACE": {
+  "name": "Ferrari N.V. Common Shares",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SU": {
+  "name": "Suncor Energy  Inc. Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ASX": {
+  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BN": {
+  "name": "Brookfield Corporation Class A Limited Voting Shares",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NGG": {
+  "name": "National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "LYG": {
+  "name": "Lloyds Banking Group Plc American Depositary Shares",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "EPD": {
+  "name": "Enterprise Products Partners L.P. Common Stock",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "US_TOP"
   ]
  },
  "000001.SZ": {
