@@ -1,9 +1,20 @@
 {
   "sources": {
     "sp500_csv": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
-    "ndx_wiki": "https://en.wikipedia.org/wiki/Nasdaq-100"
+    "us_listings": {
+      "纳斯达克": "https://raw.githubusercontent.com/rreichel3/US-Stock-Symbols/main/nasdaq/nasdaq_full_tickers.json",
+      "纽交所": "https://raw.githubusercontent.com/rreichel3/US-Stock-Symbols/main/nyse/nyse_full_tickers.json"
+    }
   },
-  "crypto": ["BTC-USD", "ETH-USD", "SOL-USD", "XRP-USD", "BNB-USD", "DOGE-USD", "ADA-USD"],
+  "crypto": [
+    "BTC-USD",
+    "ETH-USD",
+    "SOL-USD",
+    "XRP-USD",
+    "BNB-USD",
+    "DOGE-USD",
+    "ADA-USD"
+  ],
   "fx": {
     "USD": "USDCNY=X",
     "HKD": "HKDCNY=X",
@@ -20,5 +31,6 @@
     "GOLD_USD_OZ": "GC=F",
     "BRENT": "BZ=F",
     "US10Y": "^TNX"
-  }
+  },
+  "us_top_n": 150
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """market-data：全球质量价值筛选器（每个交易日在 GitHub Actions 上运行）
 
-股票池只用公开标准：标普500、纳斯达克100、沪深300、港股主要公司、市值前列的加密货币。
+股票池只用公开标准：标普500、纳斯达克与纽交所市值前列（含 ADR）、沪深300、港股主要公司、市值前列的加密货币。
 1. 抓 1 年日线、5 年周线、汇率、指数
 2. 基本面（雅虎财经）按 7 天轮换刷新，三个市场轮流排队
 3. 算指标：涨跌、回撤、5 年价格分位、自由现金流收益率等
@@ -117,21 +117,18 @@ def load_universe() -> dict[str, dict]:
     except Exception as e:  # noqa: BLE001
         log("标普500 名单获取失败：", e)
 
-    try:
-        import io
-        import urllib.request
-        req = urllib.request.Request(CFG["sources"]["ndx_wiki"],
-                                     headers={"User-Agent": "Mozilla/5.0 (market-data screener)"})
-        html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
-        tables = pd.read_html(io.StringIO(html))
-        ndx = next(t for t in tables if "Ticker" in t.columns or "Symbol" in t.columns)
-        col = "Ticker" if "Ticker" in ndx.columns else "Symbol"
-        name_col = "Company" if "Company" in ndx.columns else col
-        for _, r in ndx.iterrows():
-            add(str(r[col]).replace(".", "-"), r.get(name_col), "", "NDX100")
-        log("纳斯达克100", len(ndx))
-    except Exception as e:  # noqa: BLE001
-        log("纳斯达克100 名单获取失败：", e)
+    # 美股市值前列（含 ADR）：纳斯达克、纽交所各取市值最大的 N 只
+    for ex, url in CFG["sources"]["us_listings"].items():
+        try:
+            rows = pd.read_json(url)
+            rows = rows[rows["symbol"].astype(str).str.fullmatch(r"[A-Z]{1,5}")]
+            rows = rows.assign(mc=pd.to_numeric(rows["marketCap"], errors="coerce")).dropna(subset=["mc"])
+            top = rows.sort_values("mc", ascending=False).head(CFG["us_top_n"])
+            for _, r in top.iterrows():
+                add(r["symbol"], r.get("name"), r.get("sector"), "US_TOP")
+            log(f"{ex} 市值前 {len(top)}")
+        except Exception as e:  # noqa: BLE001
+            log(f"{ex} 名单获取失败：", e)
 
     try:
         import akshare as ak
@@ -157,7 +154,7 @@ def load_universe() -> dict[str, dict]:
     if cache.exists():
         old = json.loads(cache.read_text())
         have = {tag for u in uni.values() for tag in u["tags"]}
-        for src in ("SP500", "NDX100", "CSI300"):
+        for src in ("SP500", "US_TOP", "CSI300"):
             if src not in have:
                 n = 0
                 for t, v in old.items():
