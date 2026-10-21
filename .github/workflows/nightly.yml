@@ -1,0 +1,44 @@
+name: nightly-screen
+
+on:
+  schedule:
+    # 新加坡时间 周一至周五 05:30（美股收盘后约 1 小时）= UTC 周日至周四 21:30
+    - cron: "30 21 * * 0-4"
+  workflow_dispatch:
+    inputs:
+      max_fundamentals:
+        description: "本次最多刷新多少只股票的基本面"
+        default: "400"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-screen
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 抓数据并筛选
+        run: python scripts/run.py --max-fundamentals "${{ github.event.inputs.max_fundamentals || '400' }}"
+
+      - name: 提交结果
+        run: |
+          git config user.name  "market-data-bot"
+          git config user.email "market-data-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "无变化"; exit 0; fi
+          git commit -m "data: $(TZ=Asia/Singapore date +%F)"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

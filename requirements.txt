@@ -1,0 +1,5 @@
+yfinance==1.7.0
+pandas==3.0.5
+numpy
+lxml
+akshare

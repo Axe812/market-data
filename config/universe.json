@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "sp500_csv": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
+    "ndx_wiki": "https://en.wikipedia.org/wiki/Nasdaq-100"
+  },
+  "crypto": ["BTC-USD", "ETH-USD", "SOL-USD", "XRP-USD", "BNB-USD", "DOGE-USD", "ADA-USD"],
+  "fx": {
+    "USD": "USDCNY=X",
+    "HKD": "HKDCNY=X",
+    "SGD": "SGDCNY=X",
+    "JPY": "JPYCNY=X",
+    "EUR": "EURCNY=X"
+  },
+  "benchmarks": {
+    "SPX": "^GSPC",
+    "NASDAQ": "^IXIC",
+    "DJI": "^DJI",
+    "HSI": "^HSI",
+    "SSE": "000001.SS",
+    "GOLD_USD_OZ": "GC=F",
+    "BRENT": "BZ=F",
+    "US10Y": "^TNX"
+  }
+}
