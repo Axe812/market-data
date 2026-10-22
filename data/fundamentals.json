@@ -27158,5 +27158,33 @@
   "impliedSharesOutstanding": 2159477169,
   "netIncomeToCommon": 6243999744,
   "fetched": "2026-10-21"
+ },
+ "CCZ": {
+  "shortName": "Comcast Holdings ZONES",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "marketCap": null,
+  "trailingPE": 55.878834,
+  "forwardPE": null,
+  "priceToBook": 3.0316637,
+  "returnOnEquity": null,
+  "debtToEquity": null,
+  "freeCashflow": null,
+  "operatingMargins": null,
+  "profitMargins": null,
+  "revenueGrowth": null,
+  "earningsGrowth": null,
+  "trailingAnnualDividendYield": null,
+  "payoutRatio": null,
+  "trailingEps": null,
+  "forwardEps": null,
+  "sector": null,
+  "industry": null,
+  "numberOfAnalystOpinions": null,
+  "targetMeanPrice": null,
+  "sharesOutstanding": null,
+  "impliedSharesOutstanding": null,
+  "netIncomeToCommon": null,
+  "fetched": "2026-10-22"
  }
 }
