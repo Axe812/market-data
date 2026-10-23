@@ -878,7 +878,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "CINF": {
@@ -1938,7 +1939,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HD": {
@@ -3295,7 +3297,7 @@
   ]
  },
  "RMD": {
-  "name": "ResMed|",
+  "name": "ResMed",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -3963,8 +3965,7 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "VTRS": {
@@ -4321,18 +4322,18 @@
    "US_TOP"
   ]
  },
- "NTRA": {
-  "name": "Natera Inc. Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "MSTR": {
   "name": "Strategy Inc Common Stock Class A",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NTRA": {
+  "name": "Natera Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4385,6 +4386,14 @@
    "US_TOP"
   ]
  },
+ "MDLN": {
+  "name": "Medline Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "NBIS": {
   "name": "Nebius Group N.V. Class A Ordinary Shares",
   "market": "US",
@@ -4393,8 +4402,8 @@
    "US_TOP"
   ]
  },
- "MDLN": {
-  "name": "Medline Inc. Class A Common Stock",
+ "ONC": {
+  "name": "BeOne Medicines Ltd. American Depositary Shares",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4409,8 +4418,8 @@
    "US_TOP"
   ]
  },
- "ONC": {
-  "name": "BeOne Medicines Ltd. American Depositary Shares",
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4427,14 +4436,6 @@
  },
  "BTSGU": {
   "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "RVMD": {
-  "name": "Revolution Medicines Inc. Common Stock",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4481,32 +4482,8 @@
    "US_TOP"
   ]
  },
- "FER": {
-  "name": "Ferrovial N.V. Ordinary Shares",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ESLT": {
-  "name": "Elbit Systems Ltd. Ordinary Shares",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ERIC": {
   "name": "Ericsson American Depositary Shares",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "MCHPP": {
-  "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4521,10 +4498,34 @@
    "US_TOP"
   ]
  },
+ "MCHPP": {
+  "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "FER": {
+  "name": "Ferrovial N.V. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "ZS": {
   "name": "Zscaler Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ESLT": {
+  "name": "Elbit Systems Ltd. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4609,18 +4610,18 @@
    "US_TOP"
   ]
  },
- "SHEL": {
-  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NVS": {
   "name": "Novartis AG Common Stock",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SHEL": {
+  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+  "market": "US",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4649,14 +4650,6 @@
    "US_TOP"
   ]
  },
- "MUFG": {
-  "name": "Mitsubishi UFJ Financial Group Inc. Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "AZN": {
   "name": "AstraZeneca PLC Ordinary Shares",
   "market": "US",
@@ -4669,6 +4662,14 @@
   "name": "Toyota Motor Corporation Common Stock",
   "market": "US",
   "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MUFG": {
+  "name": "Mitsubishi UFJ Financial Group Inc. Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4689,18 +4690,18 @@
    "US_TOP"
   ]
  },
- "TTE": {
-  "name": "TotalEnergies SE Ordinary Shares",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "TD": {
   "name": "Toronto Dominion Bank (The) Common Stock",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TTE": {
+  "name": "TotalEnergies SE Ordinary Shares",
+  "market": "US",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4841,22 +4842,6 @@
    "US_TOP"
   ]
  },
- "RIO": {
-  "name": "Rio Tinto Plc Common Stock",
-  "market": "US",
-  "sector": "Basic Materials",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "CNQ": {
-  "name": "Canadian Natural Resources Limited Common Stock",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BNS": {
   "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
   "market": "US",
@@ -4873,18 +4858,26 @@
    "US_TOP"
   ]
  },
- "SPOT": {
-  "name": "Spotify Technology S.A. Ordinary Shares",
+ "CNQ": {
+  "name": "Canadian Natural Resources Limited Common Stock",
   "market": "US",
-  "sector": "Consumer Discretionary",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
  },
- "NET": {
-  "name": "Cloudflare Inc. Class A Common Stock",
+ "RIO": {
+  "name": "Rio Tinto Plc Common Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SPOT": {
+  "name": "Spotify Technology S.A. Ordinary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4909,6 +4902,14 @@
   "name": "Enbridge Inc Common Stock",
   "market": "US",
   "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NET": {
+  "name": "Cloudflare Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4945,18 +4946,18 @@
    "US_TOP"
   ]
  },
- "E": {
-  "name": "ENI S.p.A. Common Stock",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "RACE": {
   "name": "Ferrari N.V. Common Shares",
   "market": "US",
   "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "E": {
+  "name": "ENI S.p.A. Common Stock",
+  "market": "US",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4969,18 +4970,18 @@
    "US_TOP"
   ]
  },
- "ASX": {
-  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BN": {
   "name": "Brookfield Corporation Class A Limited Voting Shares",
   "market": "US",
   "sector": "Real Estate",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ASX": {
+  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4997,14 +4998,6 @@
   "name": "Lloyds Banking Group Plc American Depositary Shares",
   "market": "US",
   "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "EPD": {
-  "name": "Enterprise Products Partners L.P. Common Stock",
-  "market": "US",
-  "sector": "Utilities",
   "tags": [
    "US_TOP"
   ]
