@@ -27186,5 +27186,33 @@
   "impliedSharesOutstanding": null,
   "netIncomeToCommon": null,
   "fetched": "2026-10-22"
+ },
+ "CP": {
+  "shortName": "Canadian Pacific Kansas City Li",
+  "currency": "USD",
+  "financialCurrency": "CAD",
+  "marketCap": 78686380032,
+  "trailingPE": 28.781353,
+  "forwardPE": 21.07435,
+  "priceToBook": 2.3778405,
+  "returnOnEquity": 0.08154,
+  "debtToEquity": 52.822,
+  "freeCashflow": 2181374976,
+  "operatingMargins": 0.38977,
+  "profitMargins": 0.25031,
+  "revenueGrowth": 0.126,
+  "earningsGrowth": -0.135,
+  "trailingAnnualDividendYield": 0.010505407,
+  "payoutRatio": 0.2214,
+  "trailingEps": 3.11,
+  "forwardEps": 4.2473435,
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "numberOfAnalystOpinions": 13,
+  "targetMeanPrice": 99.310104,
+  "sharesOutstanding": 879079224,
+  "impliedSharesOutstanding": 879079224,
+  "netIncomeToCommon": 3867000064,
+  "fetched": "2026-10-25"
  }
 }
