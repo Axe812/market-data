@@ -1937,8 +1937,7 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "HD": {
@@ -3186,13 +3185,12 @@
    "SP500"
   ]
  },
- "PWR": {
-  "name": "Quanta Services",
+ "Q": {
+  "name": "Qnity Electronics",
   "market": "US",
-  "sector": "Industrials",
+  "sector": "Information Technology",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "QCOM": {
@@ -3204,18 +3202,19 @@
    "US_TOP"
   ]
  },
+ "PWR": {
+  "name": "Quanta Services",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500",
+   "US_TOP"
+  ]
+ },
  "DGX": {
   "name": "Quest Diagnostics",
   "market": "US",
   "sector": "Health Care",
-  "tags": [
-   "SP500"
-  ]
- },
- "Q": {
-  "name": "Qnity Electronics",
-  "market": "US",
-  "sector": "Information Technology",
   "tags": [
    "SP500"
   ]
@@ -3242,15 +3241,6 @@
   "sector": "Communication Services",
   "tags": [
    "SP500"
-  ]
- },
- "RTX": {
-  "name": "RTX Corporation",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "SP500",
-   "US_TOP"
   ]
  },
  "O": {
@@ -3361,6 +3351,15 @@
    "SP500"
   ]
  },
+ "RTX": {
+  "name": "RTX Corporation",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "SP500",
+   "US_TOP"
+  ]
+ },
  "SPGI": {
   "name": "S&P Global",
   "market": "US",
@@ -3448,7 +3447,7 @@
   ]
  },
  "SKYD": {
-  "name": "Skydance Corporation",
+  "name": "Skydance",
   "market": "US",
   "sector": "Communication Services",
   "tags": [
@@ -4393,6 +4392,14 @@
    "US_TOP"
   ]
  },
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "ONC": {
   "name": "BeOne Medicines Ltd. American Depositary Shares",
   "market": "US",
@@ -4409,16 +4416,16 @@
    "US_TOP"
   ]
  },
- "NBIS": {
-  "name": "Nebius Group N.V. Class A Ordinary Shares",
+ "STRC": {
+  "name": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
  },
- "STRC": {
-  "name": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
+ "ZS": {
+  "name": "Zscaler Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4449,14 +4456,6 @@
    "US_TOP"
   ]
  },
- "ZS": {
-  "name": "Zscaler Inc. Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SMCIP": {
   "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
   "market": "US",
@@ -4465,10 +4464,10 @@
    "US_TOP"
   ]
  },
- "VOD": {
-  "name": "Vodafone Group Plc American Depositary Shares",
+ "OKTA": {
+  "name": "Okta Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Telecommunications",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4489,18 +4488,10 @@
    "US_TOP"
   ]
  },
- "FER": {
-  "name": "Ferrovial N.V. Ordinary Shares",
+ "VOD": {
+  "name": "Vodafone Group Plc American Depositary Shares",
   "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "OKTA": {
-  "name": "Okta Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
+  "sector": "Telecommunications",
   "tags": [
    "US_TOP"
   ]
@@ -4509,6 +4500,14 @@
   "name": "Ericsson American Depositary Shares",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "FER": {
+  "name": "Ferrovial N.V. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4553,18 +4552,10 @@
    "US_TOP"
   ]
  },
- "CRWV": {
-  "name": "CoreWeave Inc. Class A Common Stock",
+ "HBANP": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
   "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "CRDO": {
-  "name": "Credo Technology Group Holding Ltd Ordinary Shares",
-  "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4577,10 +4568,18 @@
    "US_TOP"
   ]
  },
- "HBANP": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
+ "CRWV": {
+  "name": "CoreWeave Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MDB": {
+  "name": "MongoDB Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4593,10 +4592,10 @@
    "US_TOP"
   ]
  },
- "STRK": {
-  "name": "Strategy Inc 8.00% Series A Perpetual Strike Preferred Stock",
+ "AGNCO": {
+  "name": "AGNC Investment Corp. Depositary Shares each representing a 1/1000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Real Estate",
   "tags": [
    "US_TOP"
   ]
@@ -4617,10 +4616,10 @@
    "US_TOP"
   ]
  },
- "NVS": {
-  "name": "Novartis AG Common Stock",
+ "SHEL": {
+  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4633,10 +4632,10 @@
    "US_TOP"
   ]
  },
- "SHEL": {
-  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+ "NVS": {
+  "name": "Novartis AG Common Stock",
   "market": "US",
-  "sector": "Energy",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4729,18 +4728,18 @@
    "US_TOP"
   ]
  },
- "BUD": {
-  "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
-  "market": "US",
-  "sector": "Consumer Staples",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "PBR": {
   "name": "Petroleo Brasileiro S.A. Petrobras ADS",
   "market": "US",
   "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BUD": {
+  "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
+  "market": "US",
+  "sector": "Consumer Staples",
   "tags": [
    "US_TOP"
   ]
@@ -4817,26 +4816,10 @@
    "US_TOP"
   ]
  },
- "MFG": {
-  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SPOT": {
   "name": "Spotify Technology S.A. Ordinary Shares",
   "market": "US",
   "sector": "Consumer Discretionary",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "BMO": {
-  "name": "Bank Of Montreal Common Stock",
-  "market": "US",
-  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4849,10 +4832,34 @@
    "US_TOP"
   ]
  },
- "HDB": {
-  "name": "HDFC Bank Limited Common Stock",
+ "MFG": {
+  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BMO": {
+  "name": "Bank Of Montreal Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NET": {
+  "name": "Cloudflare Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SNOW": {
+  "name": "Snowflake Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4873,18 +4880,18 @@
    "US_TOP"
   ]
  },
- "SNOW": {
-  "name": "Snowflake Inc. Common Stock",
+ "HDB": {
+  "name": "HDFC Bank Limited Common Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
  },
- "NET": {
-  "name": "Cloudflare Inc. Class A Common Stock",
+ "ITUB": {
+  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4897,14 +4904,6 @@
    "US_TOP"
   ]
  },
- "RIO": {
-  "name": "Rio Tinto Plc Common Stock",
-  "market": "US",
-  "sector": "Basic Materials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ENB": {
   "name": "Enbridge Inc Common Stock",
   "market": "US",
@@ -4913,10 +4912,10 @@
    "US_TOP"
   ]
  },
- "ITUB": {
-  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
+ "RIO": {
+  "name": "Rio Tinto Plc Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
@@ -4937,10 +4936,10 @@
    "US_TOP"
   ]
  },
- "ING": {
-  "name": "ING Group N.V. Common Stock",
+ "E": {
+  "name": "ENI S.p.A. Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4953,10 +4952,18 @@
    "US_TOP"
   ]
  },
- "E": {
-  "name": "ENI S.p.A. Common Stock",
+ "SU": {
+  "name": "Suncor Energy  Inc. Common Stock",
   "market": "US",
   "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ING": {
+  "name": "ING Group N.V. Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4969,18 +4976,18 @@
    "US_TOP"
   ]
  },
- "SU": {
-  "name": "Suncor Energy  Inc. Common Stock",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "AEM": {
   "name": "Agnico Eagle Mines Limited Common Stock",
   "market": "US",
   "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ASX": {
+  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4993,10 +5000,10 @@
    "US_TOP"
   ]
  },
- "ASX": {
-  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+ "EPD": {
+  "name": "Enterprise Products Partners L.P. Common Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Utilities",
   "tags": [
    "US_TOP"
   ]
