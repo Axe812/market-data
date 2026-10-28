@@ -1226,7 +1226,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FANG": {
@@ -2725,7 +2726,8 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "MSCI": {
@@ -4376,14 +4378,6 @@
    "US_TOP"
   ]
  },
- "MDLN": {
-  "name": "Medline Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ALAB": {
   "name": "Astera Labs Inc. Common Stock",
   "market": "US",
@@ -4392,16 +4386,8 @@
    "US_TOP"
   ]
  },
- "NBIS": {
-  "name": "Nebius Group N.V. Class A Ordinary Shares",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ONC": {
-  "name": "BeOne Medicines Ltd. American Depositary Shares",
+ "MDLN": {
+  "name": "Medline Inc. Class A Common Stock",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4416,6 +4402,22 @@
    "US_TOP"
   ]
  },
+ "ZS": {
+  "name": "Zscaler Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ONC": {
+  "name": "BeOne Medicines Ltd. American Depositary Shares",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "STRC": {
   "name": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock",
   "market": "US",
@@ -4424,8 +4426,8 @@
    "US_TOP"
   ]
  },
- "ZS": {
-  "name": "Zscaler Inc. Common Stock",
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4448,8 +4450,24 @@
    "US_TOP"
   ]
  },
+ "OKTA": {
+  "name": "Okta Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "BTSGU": {
   "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RPRX": {
+  "name": "Royalty Pharma plc Class A Ordinary Shares ",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4464,8 +4482,8 @@
    "US_TOP"
   ]
  },
- "OKTA": {
-  "name": "Okta Inc. Class A Common Stock",
+ "ERIC": {
+  "name": "Ericsson American Depositary Shares",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4480,26 +4498,10 @@
    "US_TOP"
   ]
  },
- "RPRX": {
-  "name": "Royalty Pharma plc Class A Ordinary Shares ",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "VOD": {
   "name": "Vodafone Group Plc American Depositary Shares",
   "market": "US",
   "sector": "Telecommunications",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ERIC": {
-  "name": "Ericsson American Depositary Shares",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4512,18 +4514,18 @@
    "US_TOP"
   ]
  },
- "MCHPP": {
-  "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ESLT": {
   "name": "Elbit Systems Ltd. Ordinary Shares",
   "market": "US",
   "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MCHPP": {
+  "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4552,10 +4554,10 @@
    "US_TOP"
   ]
  },
- "HBANP": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
+ "MDB": {
+  "name": "MongoDB Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4576,24 +4578,16 @@
    "US_TOP"
   ]
  },
- "MDB": {
-  "name": "MongoDB Inc. Class A Common Stock",
+ "HBANP": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
  },
  "AGNCN": {
   "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",
-  "market": "US",
-  "sector": "Real Estate",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "AGNCO": {
-  "name": "AGNC Investment Corp. Depositary Shares each representing a 1/1000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",
   "market": "US",
   "sector": "Real Estate",
   "tags": [
@@ -4624,18 +4618,18 @@
    "US_TOP"
   ]
  },
- "SAP": {
-  "name": "SAP  SE ADS",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NVS": {
   "name": "Novartis AG Common Stock",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SAP": {
+  "name": "SAP  SE ADS",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4728,14 +4722,6 @@
    "US_TOP"
   ]
  },
- "PBR": {
-  "name": "Petroleo Brasileiro S.A. Petrobras ADS",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BUD": {
   "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
   "market": "US",
@@ -4768,8 +4754,24 @@
    "US_TOP"
   ]
  },
+ "PBR": {
+  "name": "Petroleo Brasileiro S.A. Petrobras ADS",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "UBS": {
   "name": "UBS Group AG Registered Ordinary Shares",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BBVA": {
+  "name": "Banco Bilbao Vizcaya Argentaria S.A. Common Stock",
   "market": "US",
   "sector": "Finance",
   "tags": [
@@ -4780,14 +4782,6 @@
   "name": "Unilever PLC American Depositary Shares (each representing One Ordinary Share)",
   "market": "US",
   "sector": "Consumer Discretionary",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "BBVA": {
-  "name": "Banco Bilbao Vizcaya Argentaria S.A. Common Stock",
-  "market": "US",
-  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4832,14 +4826,6 @@
    "US_TOP"
   ]
  },
- "MFG": {
-  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BMO": {
   "name": "Bank Of Montreal Common Stock",
   "market": "US",
@@ -4848,16 +4834,24 @@
    "US_TOP"
   ]
  },
- "NET": {
-  "name": "Cloudflare Inc. Class A Common Stock",
+ "MFG": {
+  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
  },
  "SNOW": {
   "name": "Snowflake Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NET": {
+  "name": "Cloudflare Inc. Class A Common Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4888,22 +4882,6 @@
    "US_TOP"
   ]
  },
- "ITUB": {
-  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "IBN": {
-  "name": "ICICI Bank Limited Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ENB": {
   "name": "Enbridge Inc Common Stock",
   "market": "US",
@@ -4928,6 +4906,14 @@
    "US_TOP"
   ]
  },
+ "IBN": {
+  "name": "ICICI Bank Limited Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "GSK": {
   "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
   "market": "US",
@@ -4944,6 +4930,14 @@
    "US_TOP"
   ]
  },
+ "ING": {
+  "name": "ING Group N.V. Common Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "BN": {
   "name": "Brookfield Corporation Class A Limited Voting Shares",
   "market": "US",
@@ -4956,14 +4950,6 @@
   "name": "Suncor Energy  Inc. Common Stock",
   "market": "US",
   "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ING": {
-  "name": "ING Group N.V. Common Stock",
-  "market": "US",
-  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -5000,18 +4986,18 @@
    "US_TOP"
   ]
  },
- "EPD": {
-  "name": "Enterprise Products Partners L.P. Common Stock",
+ "ITUB": {
+  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
   "market": "US",
-  "sector": "Utilities",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
  },
- "CP": {
-  "name": "Canadian Pacific Kansas City Limited Common Shares",
+ "LYG": {
+  "name": "Lloyds Banking Group Plc American Depositary Shares",
   "market": "US",
-  "sector": "Industrials",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
