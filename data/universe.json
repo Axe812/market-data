@@ -963,8 +963,7 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "COHR": {
@@ -1929,8 +1928,7 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "HLT": {
@@ -2936,8 +2934,7 @@
   "market": "US",
   "sector": "Information Technology",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "OKE": {
@@ -4353,10 +4350,10 @@
    "US_TOP"
   ]
  },
- "TRI": {
-  "name": "Thomson Reuters Corporation Common Shares",
+ "ALAB": {
+  "name": "Astera Labs Inc. Common Stock",
   "market": "US",
-  "sector": "Consumer Discretionary",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4369,18 +4366,18 @@
    "US_TOP"
   ]
  },
- "HBANL": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
+ "TRI": {
+  "name": "Thomson Reuters Corporation Common Shares",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
  },
- "ALAB": {
-  "name": "Astera Labs Inc. Common Stock",
+ "HBANL": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4409,10 +4406,10 @@
    "US_TOP"
   ]
  },
- "ZS": {
-  "name": "Zscaler Inc. Common Stock",
+ "ONC": {
+  "name": "BeOne Medicines Ltd. American Depositary Shares",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4425,10 +4422,10 @@
    "US_TOP"
   ]
  },
- "ONC": {
-  "name": "BeOne Medicines Ltd. American Depositary Shares",
+ "ZS": {
+  "name": "Zscaler Inc. Common Stock",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4437,14 +4434,6 @@
   "name": "Revolution Medicines Inc. Common Stock",
   "market": "US",
   "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "OKTA": {
-  "name": "Okta Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4465,10 +4454,10 @@
    "US_TOP"
   ]
  },
- "HBANM": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
+ "OKTA": {
+  "name": "Okta Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4481,10 +4470,10 @@
    "US_TOP"
   ]
  },
- "RPRX": {
-  "name": "Royalty Pharma plc Class A Ordinary Shares ",
+ "HBANM": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4497,6 +4486,14 @@
    "US_TOP"
   ]
  },
+ "RPRX": {
+  "name": "Royalty Pharma plc Class A Ordinary Shares ",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "MCHPP": {
   "name": "Microchip Technology Incorporated Depositary Shares Each Representing a 1/20th Interest in a Share of 7.50% Series A Mandatory Convertible Preferred Stock",
   "market": "US",
@@ -4505,16 +4502,16 @@
    "US_TOP"
   ]
  },
- "ESLT": {
-  "name": "Elbit Systems Ltd. Ordinary Shares",
+ "RKLB": {
+  "name": "Rocket Lab Corporation Common Stock",
   "market": "US",
   "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
  },
- "RKLB": {
-  "name": "Rocket Lab Corporation Common Stock",
+ "ESLT": {
+  "name": "Elbit Systems Ltd. Ordinary Shares",
   "market": "US",
   "sector": "Industrials",
   "tags": [
@@ -4537,10 +4534,10 @@
    "US_TOP"
   ]
  },
- "JD": {
-  "name": "JD.com Inc. American Depositary Shares",
+ "GMAB": {
+  "name": "Genmab A/S ADS",
   "market": "US",
-  "sector": "Consumer Discretionary",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4549,6 +4546,14 @@
   "name": "CoreWeave Inc. Class A Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "JD": {
+  "name": "JD.com Inc. American Depositary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4585,6 +4590,14 @@
    "US_TOP"
   ]
  },
+ "STRD": {
+  "name": "Strategy Inc 10.00% Series A Perpetual Stride Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "AGNCN": {
   "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",
   "market": "US",
@@ -4617,18 +4630,18 @@
    "US_TOP"
   ]
  },
- "SHEL": {
-  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SAP": {
   "name": "SAP  SE ADS",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SHEL": {
+  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+  "market": "US",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4649,18 +4662,18 @@
    "US_TOP"
   ]
  },
- "TM": {
-  "name": "Toyota Motor Corporation Common Stock",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "MUFG": {
   "name": "Mitsubishi UFJ Financial Group Inc. Common Stock",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TM": {
+  "name": "Toyota Motor Corporation Common Stock",
+  "market": "US",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4713,18 +4726,18 @@
    "US_TOP"
   ]
  },
- "SAN": {
-  "name": "Banco Santander S.A. Sponsored ADR (Spain)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NVO": {
   "name": "Novo Nordisk A/S Common Stock",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SAN": {
+  "name": "Banco Santander S.A. Sponsored ADR (Spain)",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4793,18 +4806,18 @@
    "US_TOP"
   ]
  },
- "BTI": {
-  "name": "British American Tobacco  Industries p.l.c. Common Stock ADR",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BP": {
   "name": "BP p.l.c. Common Stock",
   "market": "US",
   "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BTI": {
+  "name": "British American Tobacco  Industries p.l.c. Common Stock ADR",
+  "market": "US",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4849,10 +4862,10 @@
    "US_TOP"
   ]
  },
- "SPOT": {
-  "name": "Spotify Technology S.A. Ordinary Shares",
+ "BNS": {
+  "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
   "market": "US",
-  "sector": "Consumer Discretionary",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4865,10 +4878,10 @@
    "US_TOP"
   ]
  },
- "BNS": {
-  "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
+ "SPOT": {
+  "name": "Spotify Technology S.A. Ordinary Shares",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4929,18 +4942,18 @@
    "US_TOP"
   ]
  },
- "ING": {
-  "name": "ING Group N.V. Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ASX": {
   "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ING": {
+  "name": "ING Group N.V. Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4993,6 +5006,14 @@
    "US_TOP"
   ]
  },
+ "EPD": {
+  "name": "Enterprise Products Partners L.P. Common Stock",
+  "market": "US",
+  "sector": "Utilities",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "ITUB": {
   "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
   "market": "US",
@@ -5001,10 +5022,10 @@
    "US_TOP"
   ]
  },
- "CP": {
-  "name": "Canadian Pacific Kansas City Limited Common Shares",
+ "LYG": {
+  "name": "Lloyds Banking Group Plc American Depositary Shares",
   "market": "US",
-  "sector": "Industrials",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
