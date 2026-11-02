@@ -1224,7 +1224,8 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "FANG": {
@@ -1987,7 +1988,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "HPQ": {
@@ -3347,7 +3349,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "RTX": {
@@ -4153,7 +4156,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "WDAY": {
@@ -4318,6 +4322,14 @@
    "US_TOP"
   ]
  },
+ "NTRA": {
+  "name": "Natera Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "MSTR": {
   "name": "Strategy Inc Common Stock Class A",
   "market": "US",
@@ -4326,8 +4338,8 @@
    "US_TOP"
   ]
  },
- "NTRA": {
-  "name": "Natera Inc. Common Stock",
+ "ARGX": {
+  "name": "argenx SE American Depositary Shares",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4342,10 +4354,10 @@
    "US_TOP"
   ]
  },
- "ARGX": {
-  "name": "argenx SE American Depositary Shares",
+ "TRI": {
+  "name": "Thomson Reuters Corporation Common Shares",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4362,14 +4374,6 @@
   "name": "Coca-Cola Europacific Partners plc Ordinary Shares",
   "market": "US",
   "sector": "Consumer Staples",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "TRI": {
-  "name": "Thomson Reuters Corporation Common Shares",
-  "market": "US",
-  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4398,14 +4402,6 @@
    "US_TOP"
   ]
  },
- "MDLN": {
-  "name": "Medline Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ONC": {
   "name": "BeOne Medicines Ltd. American Depositary Shares",
   "market": "US",
@@ -4422,26 +4418,10 @@
    "US_TOP"
   ]
  },
- "ZS": {
-  "name": "Zscaler Inc. Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "RVMD": {
-  "name": "Revolution Medicines Inc. Common Stock",
+ "MDLN": {
+  "name": "Medline Inc. Class A Common Stock",
   "market": "US",
   "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "SMCIP": {
-  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4454,8 +4434,16 @@
    "US_TOP"
   ]
  },
- "OKTA": {
-  "name": "Okta Inc. Class A Common Stock",
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ZS": {
+  "name": "Zscaler Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4464,6 +4452,30 @@
  },
  "BTSGU": {
   "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "OKTA": {
+  "name": "Okta Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SMCIP": {
+  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RPRX": {
+  "name": "Royalty Pharma plc Class A Ordinary Shares ",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4486,10 +4498,10 @@
    "US_TOP"
   ]
  },
- "RPRX": {
-  "name": "Royalty Pharma plc Class A Ordinary Shares ",
+ "ESLT": {
+  "name": "Elbit Systems Ltd. Ordinary Shares",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4504,14 +4516,6 @@
  },
  "RKLB": {
   "name": "Rocket Lab Corporation Common Stock",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ESLT": {
-  "name": "Elbit Systems Ltd. Ordinary Shares",
   "market": "US",
   "sector": "Industrials",
   "tags": [
@@ -4542,18 +4546,18 @@
    "US_TOP"
   ]
  },
- "CRWV": {
-  "name": "CoreWeave Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "JD": {
   "name": "JD.com Inc. American Depositary Shares",
   "market": "US",
   "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CRWV": {
+  "name": "CoreWeave Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4576,22 +4580,6 @@
  },
  "MDB": {
   "name": "MongoDB Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ALNY": {
-  "name": "Alnylam Pharmaceuticals Inc. Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "STRD": {
-  "name": "Strategy Inc 10.00% Series A Perpetual Stride Preferred Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4622,6 +4610,14 @@
    "US_TOP"
   ]
  },
+ "SHEL": {
+  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "HSBC": {
   "name": "HSBC Holdings plc. Common Stock",
   "market": "US",
@@ -4634,14 +4630,6 @@
   "name": "SAP  SE ADS",
   "market": "US",
   "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "SHEL": {
-  "name": "Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ",
-  "market": "US",
-  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4750,18 +4738,18 @@
    "US_TOP"
   ]
  },
- "BUD": {
-  "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
-  "market": "US",
-  "sector": "Consumer Staples",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SMFG": {
   "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BUD": {
+  "name": "Anheuser-Busch Inbev SA Sponsored ADR (Belgium)",
+  "market": "US",
+  "sector": "Consumer Staples",
   "tags": [
    "US_TOP"
   ]
@@ -4806,18 +4794,18 @@
    "US_TOP"
   ]
  },
- "BP": {
-  "name": "BP p.l.c. Common Stock",
-  "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BTI": {
   "name": "British American Tobacco  Industries p.l.c. Common Stock ADR",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BP": {
+  "name": "BP p.l.c. Common Stock",
+  "market": "US",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4846,18 +4834,18 @@
    "US_TOP"
   ]
  },
- "SNOW": {
-  "name": "Snowflake Inc. Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "EQNR": {
   "name": "Equinor ASA",
   "market": "US",
   "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SPOT": {
+  "name": "Spotify Technology S.A. Ordinary Shares",
+  "market": "US",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4870,18 +4858,10 @@
    "US_TOP"
   ]
  },
- "NET": {
-  "name": "Cloudflare Inc. Class A Common Stock",
+ "SNOW": {
+  "name": "Snowflake Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "SPOT": {
-  "name": "Spotify Technology S.A. Ordinary Shares",
-  "market": "US",
-  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4902,10 +4882,10 @@
    "US_TOP"
   ]
  },
- "RIO": {
-  "name": "Rio Tinto Plc Common Stock",
+ "NET": {
+  "name": "Cloudflare Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Basic Materials",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4926,18 +4906,18 @@
    "US_TOP"
   ]
  },
- "IBN": {
-  "name": "ICICI Bank Limited Common Stock",
+ "RIO": {
+  "name": "Rio Tinto Plc Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
  },
- "GSK": {
-  "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
+ "IBN": {
+  "name": "ICICI Bank Limited Common Stock",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4950,10 +4930,10 @@
    "US_TOP"
   ]
  },
- "ING": {
-  "name": "ING Group N.V. Common Stock",
+ "GSK": {
+  "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4974,10 +4954,10 @@
    "US_TOP"
   ]
  },
- "AEM": {
-  "name": "Agnico Eagle Mines Limited Common Stock",
+ "ING": {
+  "name": "ING Group N.V. Common Stock",
   "market": "US",
-  "sector": "Basic Materials",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4998,6 +4978,14 @@
    "US_TOP"
   ]
  },
+ "AEM": {
+  "name": "Agnico Eagle Mines Limited Common Stock",
+  "market": "US",
+  "sector": "Basic Materials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "NGG": {
   "name": "National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares",
   "market": "US",
@@ -5010,22 +4998,6 @@
   "name": "Enterprise Products Partners L.P. Common Stock",
   "market": "US",
   "sector": "Utilities",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ITUB": {
-  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "LYG": {
-  "name": "Lloyds Banking Group Plc American Depositary Shares",
-  "market": "US",
-  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
