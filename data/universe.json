@@ -3764,8 +3764,7 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "TRMB": {
@@ -4427,10 +4426,26 @@
    "US_TOP"
   ]
  },
- "RVMD": {
-  "name": "Revolution Medicines Inc. Common Stock",
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RKLB": {
+  "name": "Rocket Lab Corporation Common Stock",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "ALAB": {
+  "name": "Astera Labs Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4443,10 +4458,18 @@
    "US_TOP"
   ]
  },
- "RKLB": {
-  "name": "Rocket Lab Corporation Common Stock",
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
   "market": "US",
-  "sector": "Industrials",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TEAM": {
+  "name": "Atlassian Corporation Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4463,30 +4486,6 @@
   "name": "JD.com Inc. American Depositary Shares",
   "market": "US",
   "sector": "Consumer Discretionary",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ALAB": {
-  "name": "Astera Labs Inc. Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "TEAM": {
-  "name": "Atlassian Corporation Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "NBIS": {
-  "name": "Nebius Group N.V. Class A Ordinary Shares",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4515,6 +4514,14 @@
    "US_TOP"
   ]
  },
+ "SMCIP": {
+  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "ESLT": {
   "name": "Elbit Systems Ltd. Ordinary Shares",
   "market": "US",
@@ -4531,26 +4538,18 @@
    "US_TOP"
   ]
  },
+ "CRWV": {
+  "name": "CoreWeave Inc. Class A Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "AGNCN": {
   "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",
   "market": "US",
   "sector": "Real Estate",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "RYAAY": {
-  "name": "Ryanair Holdings plc American Depositary Shares",
-  "market": "US",
-  "sector": "Consumer Discretionary",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "SMCIP": {
-  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4587,10 +4586,10 @@
    "US_TOP"
   ]
  },
- "AGNCM": {
-  "name": "AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock",
+ "RYAAY": {
+  "name": "Ryanair Holdings plc American Depositary Shares",
   "market": "US",
-  "sector": "Real Estate",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4603,14 +4602,6 @@
    "US_TOP"
   ]
  },
- "NVS": {
-  "name": "Novartis AG Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "HSBC": {
   "name": "HSBC Holdings plc. Common Stock",
   "market": "US",
@@ -4619,8 +4610,8 @@
    "US_TOP"
   ]
  },
- "AZN": {
-  "name": "AstraZeneca PLC Ordinary Shares",
+ "NVS": {
+  "name": "Novartis AG Common Stock",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4631,6 +4622,14 @@
   "name": "SAP  SE ADS",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "AZN": {
+  "name": "AstraZeneca PLC Ordinary Shares",
+  "market": "US",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4691,18 +4690,18 @@
    "US_TOP"
   ]
  },
- "TD": {
-  "name": "Toronto Dominion Bank (The) Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "KOF": {
   "name": "Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",
   "market": "US",
   "sector": "Consumer Staples",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "TD": {
+  "name": "Toronto Dominion Bank (The) Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4715,18 +4714,18 @@
    "US_TOP"
   ]
  },
- "SAN": {
-  "name": "Banco Santander S.A. Sponsored ADR (Spain)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NVO": {
   "name": "Novo Nordisk A/S Common Stock",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SAN": {
+  "name": "Banco Santander S.A. Sponsored ADR (Spain)",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4739,18 +4738,18 @@
    "US_TOP"
   ]
  },
- "SONY": {
-  "name": "Sony Group Corporation American Depositary Shares ",
-  "market": "US",
-  "sector": "Consumer Staples",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SMFG": {
   "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SONY": {
+  "name": "Sony Group Corporation American Depositary Shares ",
+  "market": "US",
+  "sector": "Consumer Staples",
   "tags": [
    "US_TOP"
   ]
@@ -4819,16 +4818,16 @@
    "US_TOP"
   ]
  },
- "IBN": {
-  "name": "ICICI Bank Limited Common Stock",
+ "MFG": {
+  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
   "market": "US",
   "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
  },
- "MFG": {
-  "name": "Mizuho Financial Group Inc. Sponosred ADR (Japan)",
+ "IBN": {
+  "name": "ICICI Bank Limited Common Stock",
   "market": "US",
   "sector": "Finance",
   "tags": [
@@ -4843,16 +4842,16 @@
    "US_TOP"
   ]
  },
- "PBR": {
-  "name": "Petroleo Brasileiro S.A. Petrobras ADS",
+ "BP": {
+  "name": "BP p.l.c. Common Stock",
   "market": "US",
   "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
  },
- "BP": {
-  "name": "BP p.l.c. Common Stock",
+ "PBR": {
+  "name": "Petroleo Brasileiro S.A. Petrobras ADS",
   "market": "US",
   "sector": "Energy",
   "tags": [
@@ -4891,6 +4890,14 @@
    "US_TOP"
   ]
  },
+ "SNOW": {
+  "name": "Snowflake Inc. Common Stock",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "CM": {
   "name": "Canadian Imperial Bank of Commerce Common Stock",
   "market": "US",
@@ -4899,10 +4906,10 @@
    "US_TOP"
   ]
  },
- "SNOW": {
-  "name": "Snowflake Inc. Common Stock",
+ "EQNR": {
+  "name": "Equinor ASA",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4919,14 +4926,6 @@
   "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
   "market": "US",
   "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "EQNR": {
-  "name": "Equinor ASA",
-  "market": "US",
-  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4963,6 +4962,14 @@
    "US_TOP"
   ]
  },
+ "E": {
+  "name": "ENI S.p.A. Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "NGG": {
   "name": "National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares",
   "market": "US",
@@ -4971,10 +4978,10 @@
    "US_TOP"
   ]
  },
- "E": {
-  "name": "ENI S.p.A. Common Stock",
+ "ASX": {
+  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
   "market": "US",
-  "sector": "Energy",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4993,710 +5000,6 @@
   "sector": "Finance",
   "tags": [
    "US_TOP"
-  ]
- },
- "0700.HK": {
-  "name": "腾讯控股",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "9988.HK": {
-  "name": "阿里巴巴",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "3690.HK": {
-  "name": "美团",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "9618.HK": {
-  "name": "京东集团",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "9999.HK": {
-  "name": "网易",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "1024.HK": {
-  "name": "快手",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "9888.HK": {
-  "name": "百度集团",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "9961.HK": {
-  "name": "携程集团",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "0780.HK": {
-  "name": "同程旅行",
-  "market": "HK",
-  "sector": "互联网",
-  "tags": [
-   "HK"
-  ]
- },
- "1810.HK": {
-  "name": "小米集团",
-  "market": "HK",
-  "sector": "科技硬件",
-  "tags": [
-   "HK"
-  ]
- },
- "2382.HK": {
-  "name": "舜宇光学科技",
-  "market": "HK",
-  "sector": "科技硬件",
-  "tags": [
-   "HK"
-  ]
- },
- "0981.HK": {
-  "name": "中芯国际",
-  "market": "HK",
-  "sector": "科技硬件",
-  "tags": [
-   "HK"
-  ]
- },
- "0992.HK": {
-  "name": "联想集团",
-  "market": "HK",
-  "sector": "科技硬件",
-  "tags": [
-   "HK"
-  ]
- },
- "0285.HK": {
-  "name": "比亚迪电子",
-  "market": "HK",
-  "sector": "科技硬件",
-  "tags": [
-   "HK"
-  ]
- },
- "9992.HK": {
-  "name": "泡泡玛特",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "6181.HK": {
-  "name": "老铺黄金",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "2020.HK": {
-  "name": "安踏体育",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "2331.HK": {
-  "name": "李宁",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "2313.HK": {
-  "name": "申洲国际",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "0291.HK": {
-  "name": "华润啤酒",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "0168.HK": {
-  "name": "青岛啤酒股份",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "1876.HK": {
-  "name": "百威亚太",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "2319.HK": {
-  "name": "蒙牛乳业",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "0322.HK": {
-  "name": "康师傅控股",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "0151.HK": {
-  "name": "中国旺旺",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "9633.HK": {
-  "name": "农夫山泉",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "0288.HK": {
-  "name": "万洲国际",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "6862.HK": {
-  "name": "海底捞",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "1929.HK": {
-  "name": "周大福",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "1044.HK": {
-  "name": "恒安国际",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "6690.HK": {
-  "name": "海尔智家",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "2097.HK": {
-  "name": "蜜雪集团",
-  "market": "HK",
-  "sector": "消费",
-  "tags": [
-   "HK"
-  ]
- },
- "9901.HK": {
-  "name": "新东方",
-  "market": "HK",
-  "sector": "教育",
-  "tags": [
-   "HK"
-  ]
- },
- "1211.HK": {
-  "name": "比亚迪股份",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "2015.HK": {
-  "name": "理想汽车",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "9868.HK": {
-  "name": "小鹏汽车",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "9866.HK": {
-  "name": "蔚来",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "0175.HK": {
-  "name": "吉利汽车",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "2333.HK": {
-  "name": "长城汽车",
-  "market": "HK",
-  "sector": "汽车",
-  "tags": [
-   "HK"
-  ]
- },
- "0669.HK": {
-  "name": "创科实业",
-  "market": "HK",
-  "sector": "工业",
-  "tags": [
-   "HK"
-  ]
- },
- "0868.HK": {
-  "name": "信义玻璃",
-  "market": "HK",
-  "sector": "工业",
-  "tags": [
-   "HK"
-  ]
- },
- "0066.HK": {
-  "name": "港铁公司",
-  "market": "HK",
-  "sector": "工业",
-  "tags": [
-   "HK"
-  ]
- },
- "0005.HK": {
-  "name": "汇丰控股",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "0388.HK": {
-  "name": "香港交易所",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "1299.HK": {
-  "name": "友邦保险",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "2318.HK": {
-  "name": "中国平安",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "2628.HK": {
-  "name": "中国人寿",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "0939.HK": {
-  "name": "建设银行",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "1398.HK": {
-  "name": "工商银行",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "3988.HK": {
-  "name": "中国银行",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "3968.HK": {
-  "name": "招商银行",
-  "market": "HK",
-  "sector": "金融",
-  "tags": [
-   "HK"
-  ]
- },
- "0941.HK": {
-  "name": "中国移动",
-  "market": "HK",
-  "sector": "电信",
-  "tags": [
-   "HK"
-  ]
- },
- "0883.HK": {
-  "name": "中国海洋石油",
-  "market": "HK",
-  "sector": "能源",
-  "tags": [
-   "HK"
-  ]
- },
- "0857.HK": {
-  "name": "中国石油股份",
-  "market": "HK",
-  "sector": "能源",
-  "tags": [
-   "HK"
-  ]
- },
- "0386.HK": {
-  "name": "中国石油化工股份",
-  "market": "HK",
-  "sector": "能源",
-  "tags": [
-   "HK"
-  ]
- },
- "1088.HK": {
-  "name": "中国神华",
-  "market": "HK",
-  "sector": "能源",
-  "tags": [
-   "HK"
-  ]
- },
- "2688.HK": {
-  "name": "新奥能源",
-  "market": "HK",
-  "sector": "公用事业",
-  "tags": [
-   "HK"
-  ]
- },
- "0002.HK": {
-  "name": "中电控股",
-  "market": "HK",
-  "sector": "公用事业",
-  "tags": [
-   "HK"
-  ]
- },
- "0003.HK": {
-  "name": "香港中华煤气",
-  "market": "HK",
-  "sector": "公用事业",
-  "tags": [
-   "HK"
-  ]
- },
- "0006.HK": {
-  "name": "电能实业",
-  "market": "HK",
-  "sector": "公用事业",
-  "tags": [
-   "HK"
-  ]
- },
- "0001.HK": {
-  "name": "长和",
-  "market": "HK",
-  "sector": "综合",
-  "tags": [
-   "HK"
-  ]
- },
- "1113.HK": {
-  "name": "长实集团",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0016.HK": {
-  "name": "新鸿基地产",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0012.HK": {
-  "name": "恒基地产",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0101.HK": {
-  "name": "恒隆地产",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0823.HK": {
-  "name": "领展房产基金",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "1109.HK": {
-  "name": "华润置地",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0688.HK": {
-  "name": "中国海外发展",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0960.HK": {
-  "name": "龙湖集团",
-  "market": "HK",
-  "sector": "地产",
-  "tags": [
-   "HK"
-  ]
- },
- "0027.HK": {
-  "name": "银河娱乐",
-  "market": "HK",
-  "sector": "博彩",
-  "tags": [
-   "HK"
-  ]
- },
- "1928.HK": {
-  "name": "金沙中国有限公司",
-  "market": "HK",
-  "sector": "博彩",
-  "tags": [
-   "HK"
-  ]
- },
- "2269.HK": {
-  "name": "药明生物",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "2359.HK": {
-  "name": "药明康德",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "1177.HK": {
-  "name": "中国生物制药",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "1093.HK": {
-  "name": "石药集团",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "1801.HK": {
-  "name": "信达生物",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "6618.HK": {
-  "name": "京东健康",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "0241.HK": {
-  "name": "阿里健康",
-  "market": "HK",
-  "sector": "医药",
-  "tags": [
-   "HK"
-  ]
- },
- "1378.HK": {
-  "name": "中国宏桥",
-  "market": "HK",
-  "sector": "材料",
-  "tags": [
-   "HK"
-  ]
- },
- "2899.HK": {
-  "name": "紫金矿业",
-  "market": "HK",
-  "sector": "材料",
-  "tags": [
-   "HK"
-  ]
- },
- "0914.HK": {
-  "name": "海螺水泥",
-  "market": "HK",
-  "sector": "材料",
-  "tags": [
-   "HK"
-  ]
- },
- "BTC-USD": {
-  "name": "BTC-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "ETH-USD": {
-  "name": "ETH-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "SOL-USD": {
-  "name": "SOL-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "XRP-USD": {
-  "name": "XRP-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "BNB-USD": {
-  "name": "BNB-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "DOGE-USD": {
-  "name": "DOGE-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
-  ]
- },
- "ADA-USD": {
-  "name": "ADA-USD",
-  "market": "CRYPTO",
-  "sector": "Crypto",
-  "tags": [
-   "CRYPTO"
   ]
  },
  "000001.SZ": {
@@ -8097,6 +7400,710 @@
   "sector": "",
   "tags": [
    "CSI300"
+  ]
+ },
+ "0700.HK": {
+  "name": "腾讯控股",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9988.HK": {
+  "name": "阿里巴巴",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3690.HK": {
+  "name": "美团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9618.HK": {
+  "name": "京东集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9999.HK": {
+  "name": "网易",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1024.HK": {
+  "name": "快手",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9888.HK": {
+  "name": "百度集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9961.HK": {
+  "name": "携程集团",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0780.HK": {
+  "name": "同程旅行",
+  "market": "HK",
+  "sector": "互联网",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1810.HK": {
+  "name": "小米集团",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2382.HK": {
+  "name": "舜宇光学科技",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0981.HK": {
+  "name": "中芯国际",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0992.HK": {
+  "name": "联想集团",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0285.HK": {
+  "name": "比亚迪电子",
+  "market": "HK",
+  "sector": "科技硬件",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9992.HK": {
+  "name": "泡泡玛特",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6181.HK": {
+  "name": "老铺黄金",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2020.HK": {
+  "name": "安踏体育",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2331.HK": {
+  "name": "李宁",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2313.HK": {
+  "name": "申洲国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0291.HK": {
+  "name": "华润啤酒",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0168.HK": {
+  "name": "青岛啤酒股份",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1876.HK": {
+  "name": "百威亚太",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2319.HK": {
+  "name": "蒙牛乳业",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0322.HK": {
+  "name": "康师傅控股",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0151.HK": {
+  "name": "中国旺旺",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9633.HK": {
+  "name": "农夫山泉",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0288.HK": {
+  "name": "万洲国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6862.HK": {
+  "name": "海底捞",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1929.HK": {
+  "name": "周大福",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1044.HK": {
+  "name": "恒安国际",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6690.HK": {
+  "name": "海尔智家",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2097.HK": {
+  "name": "蜜雪集团",
+  "market": "HK",
+  "sector": "消费",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9901.HK": {
+  "name": "新东方",
+  "market": "HK",
+  "sector": "教育",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1211.HK": {
+  "name": "比亚迪股份",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2015.HK": {
+  "name": "理想汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9868.HK": {
+  "name": "小鹏汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "9866.HK": {
+  "name": "蔚来",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0175.HK": {
+  "name": "吉利汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2333.HK": {
+  "name": "长城汽车",
+  "market": "HK",
+  "sector": "汽车",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0669.HK": {
+  "name": "创科实业",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0868.HK": {
+  "name": "信义玻璃",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0066.HK": {
+  "name": "港铁公司",
+  "market": "HK",
+  "sector": "工业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0005.HK": {
+  "name": "汇丰控股",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0388.HK": {
+  "name": "香港交易所",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1299.HK": {
+  "name": "友邦保险",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2318.HK": {
+  "name": "中国平安",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2628.HK": {
+  "name": "中国人寿",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0939.HK": {
+  "name": "建设银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1398.HK": {
+  "name": "工商银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3988.HK": {
+  "name": "中国银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "3968.HK": {
+  "name": "招商银行",
+  "market": "HK",
+  "sector": "金融",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0941.HK": {
+  "name": "中国移动",
+  "market": "HK",
+  "sector": "电信",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0883.HK": {
+  "name": "中国海洋石油",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0857.HK": {
+  "name": "中国石油股份",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0386.HK": {
+  "name": "中国石油化工股份",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1088.HK": {
+  "name": "中国神华",
+  "market": "HK",
+  "sector": "能源",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2688.HK": {
+  "name": "新奥能源",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0002.HK": {
+  "name": "中电控股",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0003.HK": {
+  "name": "香港中华煤气",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0006.HK": {
+  "name": "电能实业",
+  "market": "HK",
+  "sector": "公用事业",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0001.HK": {
+  "name": "长和",
+  "market": "HK",
+  "sector": "综合",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1113.HK": {
+  "name": "长实集团",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0016.HK": {
+  "name": "新鸿基地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0012.HK": {
+  "name": "恒基地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0101.HK": {
+  "name": "恒隆地产",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0823.HK": {
+  "name": "领展房产基金",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1109.HK": {
+  "name": "华润置地",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0688.HK": {
+  "name": "中国海外发展",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0960.HK": {
+  "name": "龙湖集团",
+  "market": "HK",
+  "sector": "地产",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0027.HK": {
+  "name": "银河娱乐",
+  "market": "HK",
+  "sector": "博彩",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1928.HK": {
+  "name": "金沙中国有限公司",
+  "market": "HK",
+  "sector": "博彩",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2269.HK": {
+  "name": "药明生物",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2359.HK": {
+  "name": "药明康德",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1177.HK": {
+  "name": "中国生物制药",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1093.HK": {
+  "name": "石药集团",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1801.HK": {
+  "name": "信达生物",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "6618.HK": {
+  "name": "京东健康",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0241.HK": {
+  "name": "阿里健康",
+  "market": "HK",
+  "sector": "医药",
+  "tags": [
+   "HK"
+  ]
+ },
+ "1378.HK": {
+  "name": "中国宏桥",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "2899.HK": {
+  "name": "紫金矿业",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "0914.HK": {
+  "name": "海螺水泥",
+  "market": "HK",
+  "sector": "材料",
+  "tags": [
+   "HK"
+  ]
+ },
+ "BTC-USD": {
+  "name": "BTC-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "ETH-USD": {
+  "name": "ETH-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "SOL-USD": {
+  "name": "SOL-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "XRP-USD": {
+  "name": "XRP-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "BNB-USD": {
+  "name": "BNB-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "DOGE-USD": {
+  "name": "DOGE-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
+  ]
+ },
+ "ADA-USD": {
+  "name": "ADA-USD",
+  "market": "CRYPTO",
+  "sector": "Crypto",
+  "tags": [
+   "CRYPTO"
   ]
  }
 }
