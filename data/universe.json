@@ -1529,7 +1529,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "EXPD": {
@@ -3764,7 +3765,8 @@
   "market": "US",
   "sector": "Financials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "TRMB": {
@@ -4338,14 +4340,6 @@
    "US_TOP"
   ]
  },
- "MDLN": {
-  "name": "Medline Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "CCEP": {
   "name": "Coca-Cola Europacific Partners plc Ordinary Shares",
   "market": "US",
@@ -4354,10 +4348,10 @@
    "US_TOP"
   ]
  },
- "MSTR": {
-  "name": "Strategy Inc Common Stock Class A",
+ "MDLN": {
+  "name": "Medline Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4370,16 +4364,16 @@
    "US_TOP"
   ]
  },
- "ONC": {
-  "name": "BeOne Medicines Ltd. American Depositary Shares",
+ "MSTR": {
+  "name": "Strategy Inc Common Stock Class A",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
  },
- "BTSGU": {
-  "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
+ "ONC": {
+  "name": "BeOne Medicines Ltd. American Depositary Shares",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4396,6 +4390,14 @@
  },
  "NTRA": {
   "name": "Natera Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BTSGU": {
+  "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
   "market": "US",
   "sector": "Health Care",
   "tags": [
@@ -4426,14 +4428,6 @@
    "US_TOP"
   ]
  },
- "NBIS": {
-  "name": "Nebius Group N.V. Class A Ordinary Shares",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "RKLB": {
   "name": "Rocket Lab Corporation Common Stock",
   "market": "US",
@@ -4458,18 +4452,18 @@
    "US_TOP"
   ]
  },
- "RVMD": {
-  "name": "Revolution Medicines Inc. Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "TEAM": {
   "name": "Atlassian Corporation Class A Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
+  "market": "US",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4514,8 +4508,8 @@
    "US_TOP"
   ]
  },
- "SMCIP": {
-  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4534,14 +4528,6 @@
   "name": "Genmab A/S ADS",
   "market": "US",
   "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "CRWV": {
-  "name": "CoreWeave Inc. Class A Common Stock",
-  "market": "US",
-  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4570,10 +4556,18 @@
    "US_TOP"
   ]
  },
- "AGNCP": {
-  "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+ "CRWV": {
+  "name": "CoreWeave Inc. Class A Common Stock",
   "market": "US",
-  "sector": "Real Estate",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SMCIP": {
+  "name": "Super Micro Computer Inc. Depositary Shares representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4586,10 +4580,10 @@
    "US_TOP"
   ]
  },
- "RYAAY": {
-  "name": "Ryanair Holdings plc American Depositary Shares",
+ "AGNCP": {
+  "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
   "market": "US",
-  "sector": "Consumer Discretionary",
+  "sector": "Real Estate",
   "tags": [
    "US_TOP"
   ]
@@ -4690,18 +4684,18 @@
    "US_TOP"
   ]
  },
- "KOF": {
-  "name": "Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",
-  "market": "US",
-  "sector": "Consumer Staples",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "TD": {
   "name": "Toronto Dominion Bank (The) Common Stock",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "KOF": {
+  "name": "Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)",
+  "market": "US",
+  "sector": "Consumer Staples",
   "tags": [
    "US_TOP"
   ]
@@ -4738,18 +4732,18 @@
    "US_TOP"
   ]
  },
- "SMFG": {
-  "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "SONY": {
   "name": "Sony Group Corporation American Depositary Shares ",
   "market": "US",
   "sector": "Consumer Staples",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SMFG": {
+  "name": "Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan)",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4770,18 +4764,18 @@
    "US_TOP"
   ]
  },
- "SCCO": {
-  "name": "Southern Copper Corporation Common Stock",
-  "market": "US",
-  "sector": "Basic Materials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "UL": {
   "name": "Unilever PLC American Depositary Shares (each representing One Ordinary Share)",
   "market": "US",
   "sector": "Consumer Discretionary",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "SCCO": {
+  "name": "Southern Copper Corporation Common Stock",
+  "market": "US",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
@@ -4858,18 +4852,18 @@
    "US_TOP"
   ]
  },
- "BNS": {
-  "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NET": {
   "name": "Cloudflare Inc. Class A Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BNS": {
+  "name": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4882,10 +4876,10 @@
    "US_TOP"
   ]
  },
- "RIO": {
-  "name": "Rio Tinto Plc Common Stock",
+ "EQNR": {
+  "name": "Equinor ASA",
   "market": "US",
-  "sector": "Basic Materials",
+  "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
@@ -4906,18 +4900,10 @@
    "US_TOP"
   ]
  },
- "EQNR": {
-  "name": "Equinor ASA",
+ "RIO": {
+  "name": "Rio Tinto Plc Common Stock",
   "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "BN": {
-  "name": "Brookfield Corporation Class A Limited Voting Shares",
-  "market": "US",
-  "sector": "Real Estate",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
@@ -4930,6 +4916,14 @@
    "US_TOP"
   ]
  },
+ "BN": {
+  "name": "Brookfield Corporation Class A Limited Voting Shares",
+  "market": "US",
+  "sector": "Real Estate",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "CNQ": {
   "name": "Canadian Natural Resources Limited Common Stock",
   "market": "US",
@@ -4938,18 +4932,18 @@
    "US_TOP"
   ]
  },
- "RACE": {
-  "name": "Ferrari N.V. Common Shares",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "ING": {
   "name": "ING Group N.V. Common Stock",
   "market": "US",
   "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RACE": {
+  "name": "Ferrari N.V. Common Shares",
+  "market": "US",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4978,10 +4972,10 @@
    "US_TOP"
   ]
  },
- "ASX": {
-  "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ",
+ "CP": {
+  "name": "Canadian Pacific Kansas City Limited Common Shares",
   "market": "US",
-  "sector": "Technology",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4990,14 +4984,6 @@
   "name": "Brookfield Asset Management Inc Class A Limited Voting Shares",
   "market": "US",
   "sector": "Real Estate",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ITUB": {
-  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
-  "market": "US",
-  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
