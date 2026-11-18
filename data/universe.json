@@ -1728,8 +1728,7 @@
   "market": "US",
   "sector": "Materials",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "GRMN": {
@@ -1813,7 +1812,8 @@
   "market": "US",
   "sector": "Consumer Discretionary",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "GPC": {
@@ -2064,7 +2064,8 @@
   "market": "US",
   "sector": "Industrials",
   "tags": [
-   "SP500"
+   "SP500",
+   "US_TOP"
   ]
  },
  "ILMN": {
@@ -2072,8 +2073,7 @@
   "market": "US",
   "sector": "Health Care",
   "tags": [
-   "SP500",
-   "US_TOP"
+   "SP500"
   ]
  },
  "INCY": {
@@ -4268,16 +4268,16 @@
    "US_TOP"
   ]
  },
- "ARM": {
-  "name": "Arm Holdings plc American Depositary Shares",
+ "SHOP": {
+  "name": "Shopify Inc. Class A Subordinate Voting Shares",
   "market": "US",
   "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
  },
- "SHOP": {
-  "name": "Shopify Inc. Class A Subordinate Voting Shares",
+ "ARM": {
+  "name": "Arm Holdings plc American Depositary Shares",
   "market": "US",
   "sector": "Technology",
   "tags": [
@@ -4380,22 +4380,6 @@
    "US_TOP"
   ]
  },
- "MSTR": {
-  "name": "Strategy Inc Common Stock Class A",
-  "market": "US",
-  "sector": "Technology",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "NTRA": {
-  "name": "Natera Inc. Common Stock",
-  "market": "US",
-  "sector": "Health Care",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "BTSGU": {
   "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
   "market": "US",
@@ -4408,6 +4392,14 @@
   "name": "Ferrovial N.V. Ordinary Shares",
   "market": "US",
   "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "MSTR": {
+  "name": "Strategy Inc Common Stock Class A",
+  "market": "US",
+  "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
@@ -4428,26 +4420,18 @@
    "US_TOP"
   ]
  },
- "RPRX": {
-  "name": "Royalty Pharma plc Class A Ordinary Shares ",
+ "NTRA": {
+  "name": "Natera Inc. Common Stock",
   "market": "US",
   "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
  },
- "RKLB": {
-  "name": "Rocket Lab Corporation Common Stock",
+ "RPRX": {
+  "name": "Royalty Pharma plc Class A Ordinary Shares ",
   "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "ALAB": {
-  "name": "Astera Labs Inc. Common Stock",
-  "market": "US",
-  "sector": "Technology",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4460,6 +4444,14 @@
    "US_TOP"
   ]
  },
+ "HBANM": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
+  "market": "US",
+  "sector": "Finance",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "JD": {
   "name": "JD.com Inc. American Depositary Shares",
   "market": "US",
@@ -4468,18 +4460,18 @@
    "US_TOP"
   ]
  },
- "RVMD": {
-  "name": "Revolution Medicines Inc. Common Stock",
+ "RKLB": {
+  "name": "Rocket Lab Corporation Common Stock",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
  },
- "HBANM": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock",
+ "RVMD": {
+  "name": "Revolution Medicines Inc. Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4500,26 +4492,18 @@
    "US_TOP"
   ]
  },
- "HBANZ": {
-  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "NBIS": {
-  "name": "Nebius Group N.V. Class A Ordinary Shares",
+ "ALAB": {
+  "name": "Astera Labs Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
   "tags": [
    "US_TOP"
   ]
  },
- "ESLT": {
-  "name": "Elbit Systems Ltd. Ordinary Shares",
+ "HBANZ": {
+  "name": "Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
   "market": "US",
-  "sector": "Industrials",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4548,10 +4532,34 @@
    "US_TOP"
   ]
  },
+ "ESLT": {
+  "name": "Elbit Systems Ltd. Ordinary Shares",
+  "market": "US",
+  "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "NBIS": {
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
+  "market": "US",
+  "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "ZS": {
   "name": "Zscaler Inc. Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "AGNCP": {
+  "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+  "market": "US",
+  "sector": "Real Estate",
   "tags": [
    "US_TOP"
   ]
@@ -4572,14 +4580,6 @@
    "US_TOP"
   ]
  },
- "AGNCP": {
-  "name": "AGNC Investment Corp. Depositary Shares Each Representing a 1/1000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-  "market": "US",
-  "sector": "Real Estate",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "TSM": {
   "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
   "market": "US",
@@ -4588,18 +4588,18 @@
    "US_TOP"
   ]
  },
- "HSBC": {
-  "name": "HSBC Holdings plc. Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "NVS": {
   "name": "Novartis AG Common Stock",
   "market": "US",
   "sector": "Health Care",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "HSBC": {
+  "name": "HSBC Holdings plc. Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4620,18 +4620,18 @@
    "US_TOP"
   ]
  },
- "RY": {
-  "name": "Royal Bank Of Canada Common Stock",
-  "market": "US",
-  "sector": "Finance",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "TM": {
   "name": "Toyota Motor Corporation Common Stock",
   "market": "US",
   "sector": "Industrials",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "RY": {
+  "name": "Royal Bank Of Canada Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4652,18 +4652,18 @@
    "US_TOP"
   ]
  },
- "BABA": {
-  "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
-  "market": "US",
-  "sector": "Consumer Discretionary",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "CCZ": {
   "name": "Comcast Holdings ZONES",
   "market": "US",
   "sector": "Telecommunications",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "BABA": {
+  "name": "Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share",
+  "market": "US",
+  "sector": "Consumer Discretionary",
   "tags": [
    "US_TOP"
   ]
@@ -4684,16 +4684,16 @@
    "US_TOP"
   ]
  },
- "BHP": {
-  "name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
+ "TTE": {
+  "name": "TotalEnergies SE Ordinary Shares",
   "market": "US",
   "sector": "Energy",
   "tags": [
    "US_TOP"
   ]
  },
- "TTE": {
-  "name": "TotalEnergies SE Ordinary Shares",
+ "BHP": {
+  "name": "BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)",
   "market": "US",
   "sector": "Energy",
   "tags": [
@@ -4764,10 +4764,10 @@
    "US_TOP"
   ]
  },
- "SCCO": {
-  "name": "Southern Copper Corporation Common Stock",
+ "HDB": {
+  "name": "HDFC Bank Limited Common Stock",
   "market": "US",
-  "sector": "Basic Materials",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4780,10 +4780,10 @@
    "US_TOP"
   ]
  },
- "HDB": {
-  "name": "HDFC Bank Limited Common Stock",
+ "SCCO": {
+  "name": "Southern Copper Corporation Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
@@ -4852,10 +4852,26 @@
    "US_TOP"
   ]
  },
+ "ENB": {
+  "name": "Enbridge Inc Common Stock",
+  "market": "US",
+  "sector": "Energy",
+  "tags": [
+   "US_TOP"
+  ]
+ },
  "NET": {
   "name": "Cloudflare Inc. Class A Common Stock",
   "market": "US",
   "sector": "Technology",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "CM": {
+  "name": "Canadian Imperial Bank of Commerce Common Stock",
+  "market": "US",
+  "sector": "Finance",
   "tags": [
    "US_TOP"
   ]
@@ -4868,18 +4884,10 @@
    "US_TOP"
   ]
  },
- "ENB": {
-  "name": "Enbridge Inc Common Stock",
+ "GSK": {
+  "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
   "market": "US",
-  "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "CM": {
-  "name": "Canadian Imperial Bank of Commerce Common Stock",
-  "market": "US",
-  "sector": "Finance",
+  "sector": "Health Care",
   "tags": [
    "US_TOP"
   ]
@@ -4900,10 +4908,10 @@
    "US_TOP"
   ]
  },
- "GSK": {
-  "name": "GSK plc American Depositary Shares (Each representing two Ordinary Shares)",
+ "BN": {
+  "name": "Brookfield Corporation Class A Limited Voting Shares",
   "market": "US",
-  "sector": "Health Care",
+  "sector": "Real Estate",
   "tags": [
    "US_TOP"
   ]
@@ -4916,10 +4924,10 @@
    "US_TOP"
   ]
  },
- "BN": {
-  "name": "Brookfield Corporation Class A Limited Voting Shares",
+ "RACE": {
+  "name": "Ferrari N.V. Common Shares",
   "market": "US",
-  "sector": "Real Estate",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4932,26 +4940,10 @@
    "US_TOP"
   ]
  },
- "RACE": {
-  "name": "Ferrari N.V. Common Shares",
-  "market": "US",
-  "sector": "Industrials",
-  "tags": [
-   "US_TOP"
-  ]
- },
  "E": {
   "name": "ENI S.p.A. Common Stock",
   "market": "US",
   "sector": "Energy",
-  "tags": [
-   "US_TOP"
-  ]
- },
- "AEM": {
-  "name": "Agnico Eagle Mines Limited Common Stock",
-  "market": "US",
-  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
@@ -4964,18 +4956,18 @@
    "US_TOP"
   ]
  },
- "ITUB": {
-  "name": "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)",
+ "AEM": {
+  "name": "Agnico Eagle Mines Limited Common Stock",
   "market": "US",
-  "sector": "Finance",
+  "sector": "Basic Materials",
   "tags": [
    "US_TOP"
   ]
  },
- "EPD": {
-  "name": "Enterprise Products Partners L.P. Common Stock",
+ "CP": {
+  "name": "Canadian Pacific Kansas City Limited Common Shares",
   "market": "US",
-  "sector": "Utilities",
+  "sector": "Industrials",
   "tags": [
    "US_TOP"
   ]
@@ -4984,6 +4976,14 @@
   "name": "Brookfield Asset Management Inc Class A Limited Voting Shares",
   "market": "US",
   "sector": "Real Estate",
+  "tags": [
+   "US_TOP"
+  ]
+ },
+ "EPD": {
+  "name": "Enterprise Products Partners L.P. Common Stock",
+  "market": "US",
+  "sector": "Utilities",
   "tags": [
    "US_TOP"
   ]
