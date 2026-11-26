@@ -27438,5 +27438,33 @@
   "impliedSharesOutstanding": 219380309,
   "netIncomeToCommon": -605609024,
   "fetched": "2026-11-23"
+ },
+ "ROIV": {
+  "shortName": "Roivant Sciences Ltd.",
+  "currency": "USD",
+  "financialCurrency": "USD",
+  "marketCap": 30576494592,
+  "trailingPE": null,
+  "forwardPE": -29.45837,
+  "priceToBook": 7.5967603,
+  "returnOnEquity": -0.08542,
+  "debtToEquity": 2.319,
+  "freeCashflow": -358864864,
+  "operatingMargins": -32.26257,
+  "profitMargins": 0.0,
+  "revenueGrowth": 21.356,
+  "earningsGrowth": null,
+  "trailingAnnualDividendYield": 0.0,
+  "payoutRatio": 0.0,
+  "trailingEps": -0.65,
+  "forwardEps": -1.43253,
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "numberOfAnalystOpinions": 11,
+  "targetMeanPrice": 50.81818,
+  "sharesOutstanding": 724561460,
+  "impliedSharesOutstanding": 724561460,
+  "netIncomeToCommon": -360116000,
+  "fetched": "2026-11-26"
  }
 }
